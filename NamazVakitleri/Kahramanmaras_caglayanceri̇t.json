@@ -1,0 +1,3658 @@
+{
+  "il": "KAHRAMANMARAŞ",
+  "ilce": "çağlayanceri̇t",
+  "ilce_id": 9573,
+  "toplam_gun": 365,
+  "vakitler": [
+    {
+      "tarih": "01 Ocak 2026 Perşembe",
+      "hicri": "12 Recep 1447",
+      "imsak": "06:12",
+      "gunes": "07:39",
+      "ogle": "12:39",
+      "ikindi": "15:08",
+      "aksam": "17:29",
+      "yatsi": "18:51"
+    },
+    {
+      "tarih": "02 Ocak 2026 Cuma",
+      "hicri": "13 Recep 1447",
+      "imsak": "06:12",
+      "gunes": "07:39",
+      "ogle": "12:40",
+      "ikindi": "15:09",
+      "aksam": "17:30",
+      "yatsi": "18:52"
+    },
+    {
+      "tarih": "03 Ocak 2026 Cumartesi",
+      "hicri": "14 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:39",
+      "ogle": "12:40",
+      "ikindi": "15:10",
+      "aksam": "17:31",
+      "yatsi": "18:52"
+    },
+    {
+      "tarih": "04 Ocak 2026 Pazar",
+      "hicri": "15 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:40",
+      "ogle": "12:41",
+      "ikindi": "15:11",
+      "aksam": "17:32",
+      "yatsi": "18:53"
+    },
+    {
+      "tarih": "05 Ocak 2026 Pazartesi",
+      "hicri": "16 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:40",
+      "ogle": "12:41",
+      "ikindi": "15:11",
+      "aksam": "17:33",
+      "yatsi": "18:54"
+    },
+    {
+      "tarih": "06 Ocak 2026 Salı",
+      "hicri": "17 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:40",
+      "ogle": "12:41",
+      "ikindi": "15:12",
+      "aksam": "17:33",
+      "yatsi": "18:55"
+    },
+    {
+      "tarih": "07 Ocak 2026 Çarşamba",
+      "hicri": "18 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:40",
+      "ogle": "12:42",
+      "ikindi": "15:13",
+      "aksam": "17:34",
+      "yatsi": "18:55"
+    },
+    {
+      "tarih": "08 Ocak 2026 Perşembe",
+      "hicri": "19 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:40",
+      "ogle": "12:42",
+      "ikindi": "15:14",
+      "aksam": "17:35",
+      "yatsi": "18:56"
+    },
+    {
+      "tarih": "09 Ocak 2026 Cuma",
+      "hicri": "20 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:39",
+      "ogle": "12:43",
+      "ikindi": "15:15",
+      "aksam": "17:36",
+      "yatsi": "18:57"
+    },
+    {
+      "tarih": "10 Ocak 2026 Cumartesi",
+      "hicri": "21 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:39",
+      "ogle": "12:43",
+      "ikindi": "15:16",
+      "aksam": "17:37",
+      "yatsi": "18:58"
+    },
+    {
+      "tarih": "11 Ocak 2026 Pazar",
+      "hicri": "22 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:39",
+      "ogle": "12:44",
+      "ikindi": "15:17",
+      "aksam": "17:38",
+      "yatsi": "18:59"
+    },
+    {
+      "tarih": "12 Ocak 2026 Pazartesi",
+      "hicri": "23 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:39",
+      "ogle": "12:44",
+      "ikindi": "15:17",
+      "aksam": "17:39",
+      "yatsi": "19:00"
+    },
+    {
+      "tarih": "13 Ocak 2026 Salı",
+      "hicri": "24 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:39",
+      "ogle": "12:44",
+      "ikindi": "15:18",
+      "aksam": "17:40",
+      "yatsi": "19:01"
+    },
+    {
+      "tarih": "14 Ocak 2026 Çarşamba",
+      "hicri": "25 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:38",
+      "ogle": "12:45",
+      "ikindi": "15:19",
+      "aksam": "17:41",
+      "yatsi": "19:01"
+    },
+    {
+      "tarih": "15 Ocak 2026 Perşembe",
+      "hicri": "26 Recep 1447",
+      "imsak": "06:13",
+      "gunes": "07:38",
+      "ogle": "12:45",
+      "ikindi": "15:20",
+      "aksam": "17:42",
+      "yatsi": "19:02"
+    },
+    {
+      "tarih": "16 Ocak 2026 Cuma",
+      "hicri": "27 Recep 1447",
+      "imsak": "06:12",
+      "gunes": "07:38",
+      "ogle": "12:45",
+      "ikindi": "15:21",
+      "aksam": "17:43",
+      "yatsi": "19:03"
+    },
+    {
+      "tarih": "17 Ocak 2026 Cumartesi",
+      "hicri": "28 Recep 1447",
+      "imsak": "06:12",
+      "gunes": "07:37",
+      "ogle": "12:46",
+      "ikindi": "15:22",
+      "aksam": "17:44",
+      "yatsi": "19:04"
+    },
+    {
+      "tarih": "18 Ocak 2026 Pazar",
+      "hicri": "29 Recep 1447",
+      "imsak": "06:12",
+      "gunes": "07:37",
+      "ogle": "12:46",
+      "ikindi": "15:23",
+      "aksam": "17:45",
+      "yatsi": "19:05"
+    },
+    {
+      "tarih": "19 Ocak 2026 Pazartesi",
+      "hicri": "30 Recep 1447",
+      "imsak": "06:12",
+      "gunes": "07:37",
+      "ogle": "12:46",
+      "ikindi": "15:24",
+      "aksam": "17:46",
+      "yatsi": "19:06"
+    },
+    {
+      "tarih": "20 Ocak 2026 Salı",
+      "hicri": "1 Şaban 1447",
+      "imsak": "06:11",
+      "gunes": "07:36",
+      "ogle": "12:47",
+      "ikindi": "15:25",
+      "aksam": "17:47",
+      "yatsi": "19:07"
+    },
+    {
+      "tarih": "21 Ocak 2026 Çarşamba",
+      "hicri": "2 Şaban 1447",
+      "imsak": "06:11",
+      "gunes": "07:36",
+      "ogle": "12:47",
+      "ikindi": "15:26",
+      "aksam": "17:48",
+      "yatsi": "19:08"
+    },
+    {
+      "tarih": "22 Ocak 2026 Perşembe",
+      "hicri": "3 Şaban 1447",
+      "imsak": "06:11",
+      "gunes": "07:35",
+      "ogle": "12:47",
+      "ikindi": "15:27",
+      "aksam": "17:50",
+      "yatsi": "19:09"
+    },
+    {
+      "tarih": "23 Ocak 2026 Cuma",
+      "hicri": "4 Şaban 1447",
+      "imsak": "06:10",
+      "gunes": "07:35",
+      "ogle": "12:48",
+      "ikindi": "15:28",
+      "aksam": "17:51",
+      "yatsi": "19:10"
+    },
+    {
+      "tarih": "24 Ocak 2026 Cumartesi",
+      "hicri": "5 Şaban 1447",
+      "imsak": "06:10",
+      "gunes": "07:34",
+      "ogle": "12:48",
+      "ikindi": "15:29",
+      "aksam": "17:52",
+      "yatsi": "19:11"
+    },
+    {
+      "tarih": "25 Ocak 2026 Pazar",
+      "hicri": "6 Şaban 1447",
+      "imsak": "06:09",
+      "gunes": "07:33",
+      "ogle": "12:48",
+      "ikindi": "15:30",
+      "aksam": "17:53",
+      "yatsi": "19:12"
+    },
+    {
+      "tarih": "26 Ocak 2026 Pazartesi",
+      "hicri": "7 Şaban 1447",
+      "imsak": "06:09",
+      "gunes": "07:33",
+      "ogle": "12:48",
+      "ikindi": "15:30",
+      "aksam": "17:54",
+      "yatsi": "19:13"
+    },
+    {
+      "tarih": "27 Ocak 2026 Salı",
+      "hicri": "8 Şaban 1447",
+      "imsak": "06:08",
+      "gunes": "07:32",
+      "ogle": "12:48",
+      "ikindi": "15:31",
+      "aksam": "17:55",
+      "yatsi": "19:14"
+    },
+    {
+      "tarih": "28 Ocak 2026 Çarşamba",
+      "hicri": "9 Şaban 1447",
+      "imsak": "06:08",
+      "gunes": "07:31",
+      "ogle": "12:49",
+      "ikindi": "15:32",
+      "aksam": "17:56",
+      "yatsi": "19:15"
+    },
+    {
+      "tarih": "29 Ocak 2026 Perşembe",
+      "hicri": "10 Şaban 1447",
+      "imsak": "06:07",
+      "gunes": "07:31",
+      "ogle": "12:49",
+      "ikindi": "15:33",
+      "aksam": "17:57",
+      "yatsi": "19:15"
+    },
+    {
+      "tarih": "30 Ocak 2026 Cuma",
+      "hicri": "11 Şaban 1447",
+      "imsak": "06:07",
+      "gunes": "07:30",
+      "ogle": "12:49",
+      "ikindi": "15:34",
+      "aksam": "17:58",
+      "yatsi": "19:16"
+    },
+    {
+      "tarih": "31 Ocak 2026 Cumartesi",
+      "hicri": "12 Şaban 1447",
+      "imsak": "06:06",
+      "gunes": "07:29",
+      "ogle": "12:49",
+      "ikindi": "15:35",
+      "aksam": "17:59",
+      "yatsi": "19:17"
+    },
+    {
+      "tarih": "01 Şubat 2026 Pazar",
+      "hicri": "13 Şaban 1447",
+      "imsak": "06:05",
+      "gunes": "07:28",
+      "ogle": "12:49",
+      "ikindi": "15:36",
+      "aksam": "18:01",
+      "yatsi": "19:18"
+    },
+    {
+      "tarih": "02 Şubat 2026 Pazartesi",
+      "hicri": "14 Şaban 1447",
+      "imsak": "06:05",
+      "gunes": "07:27",
+      "ogle": "12:49",
+      "ikindi": "15:37",
+      "aksam": "18:02",
+      "yatsi": "19:19"
+    },
+    {
+      "tarih": "03 Şubat 2026 Salı",
+      "hicri": "15 Şaban 1447",
+      "imsak": "06:04",
+      "gunes": "07:26",
+      "ogle": "12:50",
+      "ikindi": "15:38",
+      "aksam": "18:03",
+      "yatsi": "19:20"
+    },
+    {
+      "tarih": "04 Şubat 2026 Çarşamba",
+      "hicri": "16 Şaban 1447",
+      "imsak": "06:03",
+      "gunes": "07:26",
+      "ogle": "12:50",
+      "ikindi": "15:39",
+      "aksam": "18:04",
+      "yatsi": "19:21"
+    },
+    {
+      "tarih": "05 Şubat 2026 Perşembe",
+      "hicri": "17 Şaban 1447",
+      "imsak": "06:02",
+      "gunes": "07:25",
+      "ogle": "12:50",
+      "ikindi": "15:40",
+      "aksam": "18:05",
+      "yatsi": "19:22"
+    },
+    {
+      "tarih": "06 Şubat 2026 Cuma",
+      "hicri": "18 Şaban 1447",
+      "imsak": "06:01",
+      "gunes": "07:24",
+      "ogle": "12:50",
+      "ikindi": "15:41",
+      "aksam": "18:06",
+      "yatsi": "19:23"
+    },
+    {
+      "tarih": "07 Şubat 2026 Cumartesi",
+      "hicri": "19 Şaban 1447",
+      "imsak": "06:01",
+      "gunes": "07:23",
+      "ogle": "12:50",
+      "ikindi": "15:42",
+      "aksam": "18:07",
+      "yatsi": "19:24"
+    },
+    {
+      "tarih": "08 Şubat 2026 Pazar",
+      "hicri": "20 Şaban 1447",
+      "imsak": "06:00",
+      "gunes": "07:22",
+      "ogle": "12:50",
+      "ikindi": "15:42",
+      "aksam": "18:08",
+      "yatsi": "19:25"
+    },
+    {
+      "tarih": "09 Şubat 2026 Pazartesi",
+      "hicri": "21 Şaban 1447",
+      "imsak": "05:59",
+      "gunes": "07:21",
+      "ogle": "12:50",
+      "ikindi": "15:43",
+      "aksam": "18:09",
+      "yatsi": "19:26"
+    },
+    {
+      "tarih": "10 Şubat 2026 Salı",
+      "hicri": "22 Şaban 1447",
+      "imsak": "05:58",
+      "gunes": "07:20",
+      "ogle": "12:50",
+      "ikindi": "15:44",
+      "aksam": "18:11",
+      "yatsi": "19:27"
+    },
+    {
+      "tarih": "11 Şubat 2026 Çarşamba",
+      "hicri": "23 Şaban 1447",
+      "imsak": "05:57",
+      "gunes": "07:18",
+      "ogle": "12:50",
+      "ikindi": "15:45",
+      "aksam": "18:12",
+      "yatsi": "19:28"
+    },
+    {
+      "tarih": "12 Şubat 2026 Perşembe",
+      "hicri": "24 Şaban 1447",
+      "imsak": "05:56",
+      "gunes": "07:17",
+      "ogle": "12:50",
+      "ikindi": "15:46",
+      "aksam": "18:13",
+      "yatsi": "19:29"
+    },
+    {
+      "tarih": "13 Şubat 2026 Cuma",
+      "hicri": "25 Şaban 1447",
+      "imsak": "05:55",
+      "gunes": "07:16",
+      "ogle": "12:50",
+      "ikindi": "15:47",
+      "aksam": "18:14",
+      "yatsi": "19:30"
+    },
+    {
+      "tarih": "14 Şubat 2026 Cumartesi",
+      "hicri": "26 Şaban 1447",
+      "imsak": "05:54",
+      "gunes": "07:15",
+      "ogle": "12:50",
+      "ikindi": "15:48",
+      "aksam": "18:15",
+      "yatsi": "19:31"
+    },
+    {
+      "tarih": "15 Şubat 2026 Pazar",
+      "hicri": "27 Şaban 1447",
+      "imsak": "05:53",
+      "gunes": "07:14",
+      "ogle": "12:50",
+      "ikindi": "15:48",
+      "aksam": "18:16",
+      "yatsi": "19:32"
+    },
+    {
+      "tarih": "16 Şubat 2026 Pazartesi",
+      "hicri": "28 Şaban 1447",
+      "imsak": "05:52",
+      "gunes": "07:13",
+      "ogle": "12:50",
+      "ikindi": "15:49",
+      "aksam": "18:17",
+      "yatsi": "19:33"
+    },
+    {
+      "tarih": "17 Şubat 2026 Salı",
+      "hicri": "29 Şaban 1447",
+      "imsak": "05:51",
+      "gunes": "07:12",
+      "ogle": "12:50",
+      "ikindi": "15:50",
+      "aksam": "18:18",
+      "yatsi": "19:34"
+    },
+    {
+      "tarih": "18 Şubat 2026 Çarşamba",
+      "hicri": "30 Şaban 1447",
+      "imsak": "05:50",
+      "gunes": "07:10",
+      "ogle": "12:50",
+      "ikindi": "15:51",
+      "aksam": "18:19",
+      "yatsi": "19:35"
+    },
+    {
+      "tarih": "19 Şubat 2026 Perşembe",
+      "hicri": "1 Ramazan 1447",
+      "imsak": "05:48",
+      "gunes": "07:09",
+      "ogle": "12:50",
+      "ikindi": "15:52",
+      "aksam": "18:20",
+      "yatsi": "19:36"
+    },
+    {
+      "tarih": "20 Şubat 2026 Cuma",
+      "hicri": "2 Ramazan 1447",
+      "imsak": "05:47",
+      "gunes": "07:08",
+      "ogle": "12:50",
+      "ikindi": "15:52",
+      "aksam": "18:21",
+      "yatsi": "19:37"
+    },
+    {
+      "tarih": "21 Şubat 2026 Cumartesi",
+      "hicri": "3 Ramazan 1447",
+      "imsak": "05:46",
+      "gunes": "07:07",
+      "ogle": "12:49",
+      "ikindi": "15:53",
+      "aksam": "18:22",
+      "yatsi": "19:38"
+    },
+    {
+      "tarih": "22 Şubat 2026 Pazar",
+      "hicri": "4 Ramazan 1447",
+      "imsak": "05:45",
+      "gunes": "07:05",
+      "ogle": "12:49",
+      "ikindi": "15:54",
+      "aksam": "18:23",
+      "yatsi": "19:39"
+    },
+    {
+      "tarih": "23 Şubat 2026 Pazartesi",
+      "hicri": "5 Ramazan 1447",
+      "imsak": "05:44",
+      "gunes": "07:04",
+      "ogle": "12:49",
+      "ikindi": "15:54",
+      "aksam": "18:25",
+      "yatsi": "19:40"
+    },
+    {
+      "tarih": "24 Şubat 2026 Salı",
+      "hicri": "6 Ramazan 1447",
+      "imsak": "05:42",
+      "gunes": "07:03",
+      "ogle": "12:49",
+      "ikindi": "15:55",
+      "aksam": "18:26",
+      "yatsi": "19:41"
+    },
+    {
+      "tarih": "25 Şubat 2026 Çarşamba",
+      "hicri": "7 Ramazan 1447",
+      "imsak": "05:41",
+      "gunes": "07:01",
+      "ogle": "12:49",
+      "ikindi": "15:56",
+      "aksam": "18:27",
+      "yatsi": "19:42"
+    },
+    {
+      "tarih": "26 Şubat 2026 Perşembe",
+      "hicri": "8 Ramazan 1447",
+      "imsak": "05:40",
+      "gunes": "07:00",
+      "ogle": "12:49",
+      "ikindi": "15:57",
+      "aksam": "18:28",
+      "yatsi": "19:43"
+    },
+    {
+      "tarih": "27 Şubat 2026 Cuma",
+      "hicri": "9 Ramazan 1447",
+      "imsak": "05:38",
+      "gunes": "06:59",
+      "ogle": "12:49",
+      "ikindi": "15:57",
+      "aksam": "18:29",
+      "yatsi": "19:44"
+    },
+    {
+      "tarih": "28 Şubat 2026 Cumartesi",
+      "hicri": "10 Ramazan 1447",
+      "imsak": "05:37",
+      "gunes": "06:57",
+      "ogle": "12:48",
+      "ikindi": "15:58",
+      "aksam": "18:30",
+      "yatsi": "19:45"
+    },
+    {
+      "tarih": "01 Mart 2026 Pazar",
+      "hicri": "11 Ramazan 1447",
+      "imsak": "05:36",
+      "gunes": "06:56",
+      "ogle": "12:48",
+      "ikindi": "15:59",
+      "aksam": "18:31",
+      "yatsi": "19:46"
+    },
+    {
+      "tarih": "02 Mart 2026 Pazartesi",
+      "hicri": "12 Ramazan 1447",
+      "imsak": "05:34",
+      "gunes": "06:55",
+      "ogle": "12:48",
+      "ikindi": "15:59",
+      "aksam": "18:32",
+      "yatsi": "19:47"
+    },
+    {
+      "tarih": "03 Mart 2026 Salı",
+      "hicri": "13 Ramazan 1447",
+      "imsak": "05:33",
+      "gunes": "06:53",
+      "ogle": "12:48",
+      "ikindi": "16:00",
+      "aksam": "18:33",
+      "yatsi": "19:48"
+    },
+    {
+      "tarih": "04 Mart 2026 Çarşamba",
+      "hicri": "14 Ramazan 1447",
+      "imsak": "05:32",
+      "gunes": "06:52",
+      "ogle": "12:48",
+      "ikindi": "16:00",
+      "aksam": "18:34",
+      "yatsi": "19:49"
+    },
+    {
+      "tarih": "05 Mart 2026 Perşembe",
+      "hicri": "15 Ramazan 1447",
+      "imsak": "05:30",
+      "gunes": "06:50",
+      "ogle": "12:47",
+      "ikindi": "16:01",
+      "aksam": "18:35",
+      "yatsi": "19:50"
+    },
+    {
+      "tarih": "06 Mart 2026 Cuma",
+      "hicri": "16 Ramazan 1447",
+      "imsak": "05:29",
+      "gunes": "06:49",
+      "ogle": "12:47",
+      "ikindi": "16:02",
+      "aksam": "18:36",
+      "yatsi": "19:51"
+    },
+    {
+      "tarih": "07 Mart 2026 Cumartesi",
+      "hicri": "17 Ramazan 1447",
+      "imsak": "05:27",
+      "gunes": "06:47",
+      "ogle": "12:47",
+      "ikindi": "16:02",
+      "aksam": "18:37",
+      "yatsi": "19:52"
+    },
+    {
+      "tarih": "08 Mart 2026 Pazar",
+      "hicri": "18 Ramazan 1447",
+      "imsak": "05:26",
+      "gunes": "06:46",
+      "ogle": "12:47",
+      "ikindi": "16:03",
+      "aksam": "18:38",
+      "yatsi": "19:53"
+    },
+    {
+      "tarih": "09 Mart 2026 Pazartesi",
+      "hicri": "19 Ramazan 1447",
+      "imsak": "05:24",
+      "gunes": "06:44",
+      "ogle": "12:46",
+      "ikindi": "16:03",
+      "aksam": "18:39",
+      "yatsi": "19:53"
+    },
+    {
+      "tarih": "10 Mart 2026 Salı",
+      "hicri": "20 Ramazan 1447",
+      "imsak": "05:23",
+      "gunes": "06:43",
+      "ogle": "12:46",
+      "ikindi": "16:04",
+      "aksam": "18:39",
+      "yatsi": "19:54"
+    },
+    {
+      "tarih": "11 Mart 2026 Çarşamba",
+      "hicri": "21 Ramazan 1447",
+      "imsak": "05:21",
+      "gunes": "06:42",
+      "ogle": "12:46",
+      "ikindi": "16:04",
+      "aksam": "18:40",
+      "yatsi": "19:55"
+    },
+    {
+      "tarih": "12 Mart 2026 Perşembe",
+      "hicri": "22 Ramazan 1447",
+      "imsak": "05:20",
+      "gunes": "06:40",
+      "ogle": "12:46",
+      "ikindi": "16:05",
+      "aksam": "18:41",
+      "yatsi": "19:56"
+    },
+    {
+      "tarih": "13 Mart 2026 Cuma",
+      "hicri": "23 Ramazan 1447",
+      "imsak": "05:18",
+      "gunes": "06:39",
+      "ogle": "12:45",
+      "ikindi": "16:05",
+      "aksam": "18:42",
+      "yatsi": "19:57"
+    },
+    {
+      "tarih": "14 Mart 2026 Cumartesi",
+      "hicri": "24 Ramazan 1447",
+      "imsak": "05:17",
+      "gunes": "06:37",
+      "ogle": "12:45",
+      "ikindi": "16:06",
+      "aksam": "18:43",
+      "yatsi": "19:58"
+    },
+    {
+      "tarih": "15 Mart 2026 Pazar",
+      "hicri": "25 Ramazan 1447",
+      "imsak": "05:15",
+      "gunes": "06:36",
+      "ogle": "12:45",
+      "ikindi": "16:06",
+      "aksam": "18:44",
+      "yatsi": "19:59"
+    },
+    {
+      "tarih": "16 Mart 2026 Pazartesi",
+      "hicri": "26 Ramazan 1447",
+      "imsak": "05:14",
+      "gunes": "06:34",
+      "ogle": "12:45",
+      "ikindi": "16:07",
+      "aksam": "18:45",
+      "yatsi": "20:00"
+    },
+    {
+      "tarih": "17 Mart 2026 Salı",
+      "hicri": "27 Ramazan 1447",
+      "imsak": "05:12",
+      "gunes": "06:33",
+      "ogle": "12:44",
+      "ikindi": "16:07",
+      "aksam": "18:46",
+      "yatsi": "20:01"
+    },
+    {
+      "tarih": "18 Mart 2026 Çarşamba",
+      "hicri": "28 Ramazan 1447",
+      "imsak": "05:10",
+      "gunes": "06:31",
+      "ogle": "12:44",
+      "ikindi": "16:08",
+      "aksam": "18:47",
+      "yatsi": "20:02"
+    },
+    {
+      "tarih": "19 Mart 2026 Perşembe",
+      "hicri": "29 Ramazan 1447",
+      "imsak": "05:09",
+      "gunes": "06:30",
+      "ogle": "12:44",
+      "ikindi": "16:08",
+      "aksam": "18:48",
+      "yatsi": "20:03"
+    },
+    {
+      "tarih": "20 Mart 2026 Cuma",
+      "hicri": "1 Şevval 1447",
+      "imsak": "05:07",
+      "gunes": "06:28",
+      "ogle": "12:43",
+      "ikindi": "16:09",
+      "aksam": "18:49",
+      "yatsi": "20:04"
+    },
+    {
+      "tarih": "21 Mart 2026 Cumartesi",
+      "hicri": "2 Şevval 1447",
+      "imsak": "05:06",
+      "gunes": "06:26",
+      "ogle": "12:43",
+      "ikindi": "16:09",
+      "aksam": "18:50",
+      "yatsi": "20:06"
+    },
+    {
+      "tarih": "22 Mart 2026 Pazar",
+      "hicri": "3 Şevval 1447",
+      "imsak": "05:04",
+      "gunes": "06:25",
+      "ogle": "12:43",
+      "ikindi": "16:09",
+      "aksam": "18:51",
+      "yatsi": "20:07"
+    },
+    {
+      "tarih": "23 Mart 2026 Pazartesi",
+      "hicri": "4 Şevval 1447",
+      "imsak": "05:02",
+      "gunes": "06:23",
+      "ogle": "12:43",
+      "ikindi": "16:10",
+      "aksam": "18:52",
+      "yatsi": "20:08"
+    },
+    {
+      "tarih": "24 Mart 2026 Salı",
+      "hicri": "5 Şevval 1447",
+      "imsak": "05:01",
+      "gunes": "06:22",
+      "ogle": "12:42",
+      "ikindi": "16:10",
+      "aksam": "18:53",
+      "yatsi": "20:09"
+    },
+    {
+      "tarih": "25 Mart 2026 Çarşamba",
+      "hicri": "6 Şevval 1447",
+      "imsak": "04:59",
+      "gunes": "06:20",
+      "ogle": "12:42",
+      "ikindi": "16:10",
+      "aksam": "18:54",
+      "yatsi": "20:10"
+    },
+    {
+      "tarih": "26 Mart 2026 Perşembe",
+      "hicri": "7 Şevval 1447",
+      "imsak": "04:57",
+      "gunes": "06:19",
+      "ogle": "12:42",
+      "ikindi": "16:11",
+      "aksam": "18:54",
+      "yatsi": "20:11"
+    },
+    {
+      "tarih": "27 Mart 2026 Cuma",
+      "hicri": "8 Şevval 1447",
+      "imsak": "04:56",
+      "gunes": "06:17",
+      "ogle": "12:41",
+      "ikindi": "16:11",
+      "aksam": "18:55",
+      "yatsi": "20:12"
+    },
+    {
+      "tarih": "28 Mart 2026 Cumartesi",
+      "hicri": "9 Şevval 1447",
+      "imsak": "04:54",
+      "gunes": "06:16",
+      "ogle": "12:41",
+      "ikindi": "16:12",
+      "aksam": "18:56",
+      "yatsi": "20:13"
+    },
+    {
+      "tarih": "29 Mart 2026 Pazar",
+      "hicri": "10 Şevval 1447",
+      "imsak": "04:52",
+      "gunes": "06:14",
+      "ogle": "12:41",
+      "ikindi": "16:12",
+      "aksam": "18:57",
+      "yatsi": "20:14"
+    },
+    {
+      "tarih": "30 Mart 2026 Pazartesi",
+      "hicri": "11 Şevval 1447",
+      "imsak": "04:51",
+      "gunes": "06:13",
+      "ogle": "12:40",
+      "ikindi": "16:12",
+      "aksam": "18:58",
+      "yatsi": "20:15"
+    },
+    {
+      "tarih": "31 Mart 2026 Salı",
+      "hicri": "12 Şevval 1447",
+      "imsak": "04:49",
+      "gunes": "06:11",
+      "ogle": "12:40",
+      "ikindi": "16:12",
+      "aksam": "18:59",
+      "yatsi": "20:16"
+    },
+    {
+      "tarih": "01 Nisan 2026 Çarşamba",
+      "hicri": "13 Şevval 1447",
+      "imsak": "04:47",
+      "gunes": "06:10",
+      "ogle": "12:40",
+      "ikindi": "16:13",
+      "aksam": "19:00",
+      "yatsi": "20:17"
+    },
+    {
+      "tarih": "02 Nisan 2026 Perşembe",
+      "hicri": "14 Şevval 1447",
+      "imsak": "04:46",
+      "gunes": "06:08",
+      "ogle": "12:40",
+      "ikindi": "16:13",
+      "aksam": "19:01",
+      "yatsi": "20:18"
+    },
+    {
+      "tarih": "03 Nisan 2026 Cuma",
+      "hicri": "15 Şevval 1447",
+      "imsak": "04:44",
+      "gunes": "06:07",
+      "ogle": "12:39",
+      "ikindi": "16:13",
+      "aksam": "19:02",
+      "yatsi": "20:19"
+    },
+    {
+      "tarih": "04 Nisan 2026 Cumartesi",
+      "hicri": "16 Şevval 1447",
+      "imsak": "04:42",
+      "gunes": "06:05",
+      "ogle": "12:39",
+      "ikindi": "16:14",
+      "aksam": "19:03",
+      "yatsi": "20:20"
+    },
+    {
+      "tarih": "05 Nisan 2026 Pazar",
+      "hicri": "17 Şevval 1447",
+      "imsak": "04:40",
+      "gunes": "06:04",
+      "ogle": "12:39",
+      "ikindi": "16:14",
+      "aksam": "19:04",
+      "yatsi": "20:21"
+    },
+    {
+      "tarih": "06 Nisan 2026 Pazartesi",
+      "hicri": "18 Şevval 1447",
+      "imsak": "04:39",
+      "gunes": "06:02",
+      "ogle": "12:38",
+      "ikindi": "16:14",
+      "aksam": "19:05",
+      "yatsi": "20:23"
+    },
+    {
+      "tarih": "07 Nisan 2026 Salı",
+      "hicri": "19 Şevval 1447",
+      "imsak": "04:37",
+      "gunes": "06:01",
+      "ogle": "12:38",
+      "ikindi": "16:14",
+      "aksam": "19:05",
+      "yatsi": "20:24"
+    },
+    {
+      "tarih": "08 Nisan 2026 Çarşamba",
+      "hicri": "20 Şevval 1447",
+      "imsak": "04:35",
+      "gunes": "05:59",
+      "ogle": "12:38",
+      "ikindi": "16:15",
+      "aksam": "19:06",
+      "yatsi": "20:25"
+    },
+    {
+      "tarih": "09 Nisan 2026 Perşembe",
+      "hicri": "21 Şevval 1447",
+      "imsak": "04:34",
+      "gunes": "05:58",
+      "ogle": "12:38",
+      "ikindi": "16:15",
+      "aksam": "19:07",
+      "yatsi": "20:26"
+    },
+    {
+      "tarih": "10 Nisan 2026 Cuma",
+      "hicri": "22 Şevval 1447",
+      "imsak": "04:32",
+      "gunes": "05:56",
+      "ogle": "12:37",
+      "ikindi": "16:15",
+      "aksam": "19:08",
+      "yatsi": "20:27"
+    },
+    {
+      "tarih": "11 Nisan 2026 Cumartesi",
+      "hicri": "23 Şevval 1447",
+      "imsak": "04:30",
+      "gunes": "05:55",
+      "ogle": "12:37",
+      "ikindi": "16:15",
+      "aksam": "19:09",
+      "yatsi": "20:28"
+    },
+    {
+      "tarih": "12 Nisan 2026 Pazar",
+      "hicri": "24 Şevval 1447",
+      "imsak": "04:28",
+      "gunes": "05:54",
+      "ogle": "12:37",
+      "ikindi": "16:16",
+      "aksam": "19:10",
+      "yatsi": "20:29"
+    },
+    {
+      "tarih": "13 Nisan 2026 Pazartesi",
+      "hicri": "25 Şevval 1447",
+      "imsak": "04:27",
+      "gunes": "05:52",
+      "ogle": "12:37",
+      "ikindi": "16:16",
+      "aksam": "19:11",
+      "yatsi": "20:31"
+    },
+    {
+      "tarih": "14 Nisan 2026 Salı",
+      "hicri": "26 Şevval 1447",
+      "imsak": "04:25",
+      "gunes": "05:51",
+      "ogle": "12:36",
+      "ikindi": "16:16",
+      "aksam": "19:12",
+      "yatsi": "20:32"
+    },
+    {
+      "tarih": "15 Nisan 2026 Çarşamba",
+      "hicri": "27 Şevval 1447",
+      "imsak": "04:23",
+      "gunes": "05:49",
+      "ogle": "12:36",
+      "ikindi": "16:16",
+      "aksam": "19:13",
+      "yatsi": "20:33"
+    },
+    {
+      "tarih": "16 Nisan 2026 Perşembe",
+      "hicri": "28 Şevval 1447",
+      "imsak": "04:22",
+      "gunes": "05:48",
+      "ogle": "12:36",
+      "ikindi": "16:17",
+      "aksam": "19:14",
+      "yatsi": "20:34"
+    },
+    {
+      "tarih": "17 Nisan 2026 Cuma",
+      "hicri": "29 Şevval 1447",
+      "imsak": "04:20",
+      "gunes": "05:47",
+      "ogle": "12:36",
+      "ikindi": "16:17",
+      "aksam": "19:15",
+      "yatsi": "20:35"
+    },
+    {
+      "tarih": "18 Nisan 2026 Cumartesi",
+      "hicri": "1 Zilkade 1447",
+      "imsak": "04:18",
+      "gunes": "05:45",
+      "ogle": "12:35",
+      "ikindi": "16:17",
+      "aksam": "19:16",
+      "yatsi": "20:37"
+    },
+    {
+      "tarih": "19 Nisan 2026 Pazar",
+      "hicri": "2 Zilkade 1447",
+      "imsak": "04:17",
+      "gunes": "05:44",
+      "ogle": "12:35",
+      "ikindi": "16:17",
+      "aksam": "19:16",
+      "yatsi": "20:38"
+    },
+    {
+      "tarih": "20 Nisan 2026 Pazartesi",
+      "hicri": "3 Zilkade 1447",
+      "imsak": "04:15",
+      "gunes": "05:42",
+      "ogle": "12:35",
+      "ikindi": "16:17",
+      "aksam": "19:17",
+      "yatsi": "20:39"
+    },
+    {
+      "tarih": "21 Nisan 2026 Salı",
+      "hicri": "4 Zilkade 1447",
+      "imsak": "04:13",
+      "gunes": "05:41",
+      "ogle": "12:35",
+      "ikindi": "16:18",
+      "aksam": "19:18",
+      "yatsi": "20:40"
+    },
+    {
+      "tarih": "22 Nisan 2026 Çarşamba",
+      "hicri": "5 Zilkade 1447",
+      "imsak": "04:12",
+      "gunes": "05:40",
+      "ogle": "12:34",
+      "ikindi": "16:18",
+      "aksam": "19:19",
+      "yatsi": "20:41"
+    },
+    {
+      "tarih": "23 Nisan 2026 Perşembe",
+      "hicri": "6 Zilkade 1447",
+      "imsak": "04:10",
+      "gunes": "05:38",
+      "ogle": "12:34",
+      "ikindi": "16:18",
+      "aksam": "19:20",
+      "yatsi": "20:43"
+    },
+    {
+      "tarih": "24 Nisan 2026 Cuma",
+      "hicri": "7 Zilkade 1447",
+      "imsak": "04:08",
+      "gunes": "05:37",
+      "ogle": "12:34",
+      "ikindi": "16:18",
+      "aksam": "19:21",
+      "yatsi": "20:44"
+    },
+    {
+      "tarih": "25 Nisan 2026 Cumartesi",
+      "hicri": "8 Zilkade 1447",
+      "imsak": "04:07",
+      "gunes": "05:36",
+      "ogle": "12:34",
+      "ikindi": "16:18",
+      "aksam": "19:22",
+      "yatsi": "20:45"
+    },
+    {
+      "tarih": "26 Nisan 2026 Pazar",
+      "hicri": "9 Zilkade 1447",
+      "imsak": "04:05",
+      "gunes": "05:35",
+      "ogle": "12:34",
+      "ikindi": "16:19",
+      "aksam": "19:23",
+      "yatsi": "20:46"
+    },
+    {
+      "tarih": "27 Nisan 2026 Pazartesi",
+      "hicri": "10 Zilkade 1447",
+      "imsak": "04:03",
+      "gunes": "05:33",
+      "ogle": "12:34",
+      "ikindi": "16:19",
+      "aksam": "19:24",
+      "yatsi": "20:48"
+    },
+    {
+      "tarih": "28 Nisan 2026 Salı",
+      "hicri": "11 Zilkade 1447",
+      "imsak": "04:02",
+      "gunes": "05:32",
+      "ogle": "12:33",
+      "ikindi": "16:19",
+      "aksam": "19:25",
+      "yatsi": "20:49"
+    },
+    {
+      "tarih": "29 Nisan 2026 Çarşamba",
+      "hicri": "12 Zilkade 1447",
+      "imsak": "04:00",
+      "gunes": "05:31",
+      "ogle": "12:33",
+      "ikindi": "16:19",
+      "aksam": "19:26",
+      "yatsi": "20:50"
+    },
+    {
+      "tarih": "30 Nisan 2026 Perşembe",
+      "hicri": "13 Zilkade 1447",
+      "imsak": "03:59",
+      "gunes": "05:30",
+      "ogle": "12:33",
+      "ikindi": "16:19",
+      "aksam": "19:27",
+      "yatsi": "20:52"
+    },
+    {
+      "tarih": "01 Mayıs 2026 Cuma",
+      "hicri": "14 Zilkade 1447",
+      "imsak": "03:57",
+      "gunes": "05:29",
+      "ogle": "12:33",
+      "ikindi": "16:20",
+      "aksam": "19:27",
+      "yatsi": "20:53"
+    },
+    {
+      "tarih": "02 Mayıs 2026 Cumartesi",
+      "hicri": "15 Zilkade 1447",
+      "imsak": "03:55",
+      "gunes": "05:27",
+      "ogle": "12:33",
+      "ikindi": "16:20",
+      "aksam": "19:28",
+      "yatsi": "20:54"
+    },
+    {
+      "tarih": "03 Mayıs 2026 Pazar",
+      "hicri": "16 Zilkade 1447",
+      "imsak": "03:54",
+      "gunes": "05:26",
+      "ogle": "12:33",
+      "ikindi": "16:20",
+      "aksam": "19:29",
+      "yatsi": "20:55"
+    },
+    {
+      "tarih": "04 Mayıs 2026 Pazartesi",
+      "hicri": "17 Zilkade 1447",
+      "imsak": "03:52",
+      "gunes": "05:25",
+      "ogle": "12:33",
+      "ikindi": "16:20",
+      "aksam": "19:30",
+      "yatsi": "20:57"
+    },
+    {
+      "tarih": "05 Mayıs 2026 Salı",
+      "hicri": "18 Zilkade 1447",
+      "imsak": "03:51",
+      "gunes": "05:24",
+      "ogle": "12:33",
+      "ikindi": "16:20",
+      "aksam": "19:31",
+      "yatsi": "20:58"
+    },
+    {
+      "tarih": "06 Mayıs 2026 Çarşamba",
+      "hicri": "19 Zilkade 1447",
+      "imsak": "03:49",
+      "gunes": "05:23",
+      "ogle": "12:33",
+      "ikindi": "16:20",
+      "aksam": "19:32",
+      "yatsi": "20:59"
+    },
+    {
+      "tarih": "07 Mayıs 2026 Perşembe",
+      "hicri": "20 Zilkade 1447",
+      "imsak": "03:48",
+      "gunes": "05:22",
+      "ogle": "12:32",
+      "ikindi": "16:21",
+      "aksam": "19:33",
+      "yatsi": "21:01"
+    },
+    {
+      "tarih": "08 Mayıs 2026 Cuma",
+      "hicri": "21 Zilkade 1447",
+      "imsak": "03:46",
+      "gunes": "05:21",
+      "ogle": "12:32",
+      "ikindi": "16:21",
+      "aksam": "19:34",
+      "yatsi": "21:02"
+    },
+    {
+      "tarih": "09 Mayıs 2026 Cumartesi",
+      "hicri": "22 Zilkade 1447",
+      "imsak": "03:45",
+      "gunes": "05:20",
+      "ogle": "12:32",
+      "ikindi": "16:21",
+      "aksam": "19:35",
+      "yatsi": "21:03"
+    },
+    {
+      "tarih": "10 Mayıs 2026 Pazar",
+      "hicri": "23 Zilkade 1447",
+      "imsak": "03:44",
+      "gunes": "05:19",
+      "ogle": "12:32",
+      "ikindi": "16:21",
+      "aksam": "19:36",
+      "yatsi": "21:04"
+    },
+    {
+      "tarih": "11 Mayıs 2026 Pazartesi",
+      "hicri": "24 Zilkade 1447",
+      "imsak": "03:42",
+      "gunes": "05:18",
+      "ogle": "12:32",
+      "ikindi": "16:21",
+      "aksam": "19:37",
+      "yatsi": "21:06"
+    },
+    {
+      "tarih": "12 Mayıs 2026 Salı",
+      "hicri": "25 Zilkade 1447",
+      "imsak": "03:41",
+      "gunes": "05:17",
+      "ogle": "12:32",
+      "ikindi": "16:22",
+      "aksam": "19:37",
+      "yatsi": "21:07"
+    },
+    {
+      "tarih": "13 Mayıs 2026 Çarşamba",
+      "hicri": "26 Zilkade 1447",
+      "imsak": "03:40",
+      "gunes": "05:16",
+      "ogle": "12:32",
+      "ikindi": "16:22",
+      "aksam": "19:38",
+      "yatsi": "21:08"
+    },
+    {
+      "tarih": "14 Mayıs 2026 Perşembe",
+      "hicri": "27 Zilkade 1447",
+      "imsak": "03:38",
+      "gunes": "05:15",
+      "ogle": "12:32",
+      "ikindi": "16:22",
+      "aksam": "19:39",
+      "yatsi": "21:10"
+    },
+    {
+      "tarih": "15 Mayıs 2026 Cuma",
+      "hicri": "28 Zilkade 1447",
+      "imsak": "03:37",
+      "gunes": "05:14",
+      "ogle": "12:32",
+      "ikindi": "16:22",
+      "aksam": "19:40",
+      "yatsi": "21:11"
+    },
+    {
+      "tarih": "16 Mayıs 2026 Cumartesi",
+      "hicri": "29 Zilkade 1447",
+      "imsak": "03:36",
+      "gunes": "05:14",
+      "ogle": "12:32",
+      "ikindi": "16:22",
+      "aksam": "19:41",
+      "yatsi": "21:12"
+    },
+    {
+      "tarih": "17 Mayıs 2026 Pazar",
+      "hicri": "30 Zilkade 1447",
+      "imsak": "03:34",
+      "gunes": "05:13",
+      "ogle": "12:32",
+      "ikindi": "16:23",
+      "aksam": "19:42",
+      "yatsi": "21:13"
+    },
+    {
+      "tarih": "18 Mayıs 2026 Pazartesi",
+      "hicri": "1 Zilhicce 1447",
+      "imsak": "03:33",
+      "gunes": "05:12",
+      "ogle": "12:32",
+      "ikindi": "16:23",
+      "aksam": "19:43",
+      "yatsi": "21:15"
+    },
+    {
+      "tarih": "19 Mayıs 2026 Salı",
+      "hicri": "2 Zilhicce 1447",
+      "imsak": "03:32",
+      "gunes": "05:11",
+      "ogle": "12:32",
+      "ikindi": "16:23",
+      "aksam": "19:43",
+      "yatsi": "21:16"
+    },
+    {
+      "tarih": "20 Mayıs 2026 Çarşamba",
+      "hicri": "3 Zilhicce 1447",
+      "imsak": "03:31",
+      "gunes": "05:10",
+      "ogle": "12:32",
+      "ikindi": "16:23",
+      "aksam": "19:44",
+      "yatsi": "21:17"
+    },
+    {
+      "tarih": "21 Mayıs 2026 Perşembe",
+      "hicri": "4 Zilhicce 1447",
+      "imsak": "03:30",
+      "gunes": "05:10",
+      "ogle": "12:32",
+      "ikindi": "16:23",
+      "aksam": "19:45",
+      "yatsi": "21:18"
+    },
+    {
+      "tarih": "22 Mayıs 2026 Cuma",
+      "hicri": "5 Zilhicce 1447",
+      "imsak": "03:29",
+      "gunes": "05:09",
+      "ogle": "12:33",
+      "ikindi": "16:24",
+      "aksam": "19:46",
+      "yatsi": "21:19"
+    },
+    {
+      "tarih": "23 Mayıs 2026 Cumartesi",
+      "hicri": "6 Zilhicce 1447",
+      "imsak": "03:28",
+      "gunes": "05:08",
+      "ogle": "12:33",
+      "ikindi": "16:24",
+      "aksam": "19:47",
+      "yatsi": "21:21"
+    },
+    {
+      "tarih": "24 Mayıs 2026 Pazar",
+      "hicri": "7 Zilhicce 1447",
+      "imsak": "03:26",
+      "gunes": "05:08",
+      "ogle": "12:33",
+      "ikindi": "16:24",
+      "aksam": "19:48",
+      "yatsi": "21:22"
+    },
+    {
+      "tarih": "25 Mayıs 2026 Pazartesi",
+      "hicri": "8 Zilhicce 1447",
+      "imsak": "03:25",
+      "gunes": "05:07",
+      "ogle": "12:33",
+      "ikindi": "16:24",
+      "aksam": "19:48",
+      "yatsi": "21:23"
+    },
+    {
+      "tarih": "26 Mayıs 2026 Salı",
+      "hicri": "9 Zilhicce 1447",
+      "imsak": "03:25",
+      "gunes": "05:07",
+      "ogle": "12:33",
+      "ikindi": "16:24",
+      "aksam": "19:49",
+      "yatsi": "21:24"
+    },
+    {
+      "tarih": "27 Mayıs 2026 Çarşamba",
+      "hicri": "10 Zilhicce 1447",
+      "imsak": "03:24",
+      "gunes": "05:06",
+      "ogle": "12:33",
+      "ikindi": "16:25",
+      "aksam": "19:50",
+      "yatsi": "21:25"
+    },
+    {
+      "tarih": "28 Mayıs 2026 Perşembe",
+      "hicri": "11 Zilhicce 1447",
+      "imsak": "03:23",
+      "gunes": "05:06",
+      "ogle": "12:33",
+      "ikindi": "16:25",
+      "aksam": "19:51",
+      "yatsi": "21:26"
+    },
+    {
+      "tarih": "29 Mayıs 2026 Cuma",
+      "hicri": "12 Zilhicce 1447",
+      "imsak": "03:22",
+      "gunes": "05:05",
+      "ogle": "12:33",
+      "ikindi": "16:25",
+      "aksam": "19:51",
+      "yatsi": "21:27"
+    },
+    {
+      "tarih": "30 Mayıs 2026 Cumartesi",
+      "hicri": "13 Zilhicce 1447",
+      "imsak": "03:21",
+      "gunes": "05:05",
+      "ogle": "12:33",
+      "ikindi": "16:25",
+      "aksam": "19:52",
+      "yatsi": "21:28"
+    },
+    {
+      "tarih": "31 Mayıs 2026 Pazar",
+      "hicri": "14 Zilhicce 1447",
+      "imsak": "03:20",
+      "gunes": "05:04",
+      "ogle": "12:34",
+      "ikindi": "16:25",
+      "aksam": "19:53",
+      "yatsi": "21:29"
+    },
+    {
+      "tarih": "01 Haziran 2026 Pazartesi",
+      "hicri": "15 Zilhicce 1447",
+      "imsak": "03:20",
+      "gunes": "05:04",
+      "ogle": "12:34",
+      "ikindi": "16:26",
+      "aksam": "19:53",
+      "yatsi": "21:30"
+    },
+    {
+      "tarih": "02 Haziran 2026 Salı",
+      "hicri": "16 Zilhicce 1447",
+      "imsak": "03:19",
+      "gunes": "05:03",
+      "ogle": "12:34",
+      "ikindi": "16:26",
+      "aksam": "19:54",
+      "yatsi": "21:31"
+    },
+    {
+      "tarih": "03 Haziran 2026 Çarşamba",
+      "hicri": "17 Zilhicce 1447",
+      "imsak": "03:18",
+      "gunes": "05:03",
+      "ogle": "12:34",
+      "ikindi": "16:26",
+      "aksam": "19:55",
+      "yatsi": "21:32"
+    },
+    {
+      "tarih": "04 Haziran 2026 Perşembe",
+      "hicri": "18 Zilhicce 1447",
+      "imsak": "03:18",
+      "gunes": "05:03",
+      "ogle": "12:34",
+      "ikindi": "16:26",
+      "aksam": "19:55",
+      "yatsi": "21:33"
+    },
+    {
+      "tarih": "05 Haziran 2026 Cuma",
+      "hicri": "19 Zilhicce 1447",
+      "imsak": "03:17",
+      "gunes": "05:03",
+      "ogle": "12:34",
+      "ikindi": "16:27",
+      "aksam": "19:56",
+      "yatsi": "21:34"
+    },
+    {
+      "tarih": "06 Haziran 2026 Cumartesi",
+      "hicri": "20 Zilhicce 1447",
+      "imsak": "03:16",
+      "gunes": "05:02",
+      "ogle": "12:34",
+      "ikindi": "16:27",
+      "aksam": "19:57",
+      "yatsi": "21:35"
+    },
+    {
+      "tarih": "07 Haziran 2026 Pazar",
+      "hicri": "21 Zilhicce 1447",
+      "imsak": "03:16",
+      "gunes": "05:02",
+      "ogle": "12:35",
+      "ikindi": "16:27",
+      "aksam": "19:57",
+      "yatsi": "21:36"
+    },
+    {
+      "tarih": "08 Haziran 2026 Pazartesi",
+      "hicri": "22 Zilhicce 1447",
+      "imsak": "03:16",
+      "gunes": "05:02",
+      "ogle": "12:35",
+      "ikindi": "16:27",
+      "aksam": "19:58",
+      "yatsi": "21:36"
+    },
+    {
+      "tarih": "09 Haziran 2026 Salı",
+      "hicri": "23 Zilhicce 1447",
+      "imsak": "03:15",
+      "gunes": "05:02",
+      "ogle": "12:35",
+      "ikindi": "16:28",
+      "aksam": "19:58",
+      "yatsi": "21:37"
+    },
+    {
+      "tarih": "10 Haziran 2026 Çarşamba",
+      "hicri": "24 Zilhicce 1447",
+      "imsak": "03:15",
+      "gunes": "05:02",
+      "ogle": "12:35",
+      "ikindi": "16:28",
+      "aksam": "19:59",
+      "yatsi": "21:38"
+    },
+    {
+      "tarih": "11 Haziran 2026 Perşembe",
+      "hicri": "25 Zilhicce 1447",
+      "imsak": "03:15",
+      "gunes": "05:02",
+      "ogle": "12:35",
+      "ikindi": "16:28",
+      "aksam": "19:59",
+      "yatsi": "21:39"
+    },
+    {
+      "tarih": "12 Haziran 2026 Cuma",
+      "hicri": "26 Zilhicce 1447",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:36",
+      "ikindi": "16:28",
+      "aksam": "20:00",
+      "yatsi": "21:39"
+    },
+    {
+      "tarih": "13 Haziran 2026 Cumartesi",
+      "hicri": "27 Zilhicce 1447",
+      "imsak": "03:14",
+      "gunes": "05:01",
+      "ogle": "12:36",
+      "ikindi": "16:29",
+      "aksam": "20:00",
+      "yatsi": "21:40"
+    },
+    {
+      "tarih": "14 Haziran 2026 Pazar",
+      "hicri": "28 Zilhicce 1447",
+      "imsak": "03:14",
+      "gunes": "05:01",
+      "ogle": "12:36",
+      "ikindi": "16:29",
+      "aksam": "20:01",
+      "yatsi": "21:40"
+    },
+    {
+      "tarih": "15 Haziran 2026 Pazartesi",
+      "hicri": "29 Zilhicce 1447",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:36",
+      "ikindi": "16:29",
+      "aksam": "20:01",
+      "yatsi": "21:41"
+    },
+    {
+      "tarih": "16 Haziran 2026 Salı",
+      "hicri": "1 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:36",
+      "ikindi": "16:29",
+      "aksam": "20:01",
+      "yatsi": "21:41"
+    },
+    {
+      "tarih": "17 Haziran 2026 Çarşamba",
+      "hicri": "2 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:37",
+      "ikindi": "16:29",
+      "aksam": "20:02",
+      "yatsi": "21:42"
+    },
+    {
+      "tarih": "18 Haziran 2026 Perşembe",
+      "hicri": "3 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:37",
+      "ikindi": "16:30",
+      "aksam": "20:02",
+      "yatsi": "21:42"
+    },
+    {
+      "tarih": "19 Haziran 2026 Cuma",
+      "hicri": "4 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:37",
+      "ikindi": "16:30",
+      "aksam": "20:02",
+      "yatsi": "21:42"
+    },
+    {
+      "tarih": "20 Haziran 2026 Cumartesi",
+      "hicri": "5 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:37",
+      "ikindi": "16:30",
+      "aksam": "20:03",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "21 Haziran 2026 Pazar",
+      "hicri": "6 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:38",
+      "ikindi": "16:30",
+      "aksam": "20:03",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "22 Haziran 2026 Pazartesi",
+      "hicri": "7 Muharrem 1448",
+      "imsak": "03:14",
+      "gunes": "05:02",
+      "ogle": "12:38",
+      "ikindi": "16:31",
+      "aksam": "20:03",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "23 Haziran 2026 Salı",
+      "hicri": "8 Muharrem 1448",
+      "imsak": "03:15",
+      "gunes": "05:03",
+      "ogle": "12:38",
+      "ikindi": "16:31",
+      "aksam": "20:03",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "24 Haziran 2026 Çarşamba",
+      "hicri": "9 Muharrem 1448",
+      "imsak": "03:15",
+      "gunes": "05:03",
+      "ogle": "12:38",
+      "ikindi": "16:31",
+      "aksam": "20:03",
+      "yatsi": "21:44"
+    },
+    {
+      "tarih": "25 Haziran 2026 Perşembe",
+      "hicri": "10 Muharrem 1448",
+      "imsak": "03:15",
+      "gunes": "05:03",
+      "ogle": "12:38",
+      "ikindi": "16:31",
+      "aksam": "20:04",
+      "yatsi": "21:44"
+    },
+    {
+      "tarih": "26 Haziran 2026 Cuma",
+      "hicri": "11 Muharrem 1448",
+      "imsak": "03:16",
+      "gunes": "05:04",
+      "ogle": "12:39",
+      "ikindi": "16:31",
+      "aksam": "20:04",
+      "yatsi": "21:44"
+    },
+    {
+      "tarih": "27 Haziran 2026 Cumartesi",
+      "hicri": "12 Muharrem 1448",
+      "imsak": "03:16",
+      "gunes": "05:04",
+      "ogle": "12:39",
+      "ikindi": "16:32",
+      "aksam": "20:04",
+      "yatsi": "21:44"
+    },
+    {
+      "tarih": "28 Haziran 2026 Pazar",
+      "hicri": "13 Muharrem 1448",
+      "imsak": "03:17",
+      "gunes": "05:04",
+      "ogle": "12:39",
+      "ikindi": "16:32",
+      "aksam": "20:04",
+      "yatsi": "21:44"
+    },
+    {
+      "tarih": "29 Haziran 2026 Pazartesi",
+      "hicri": "14 Muharrem 1448",
+      "imsak": "03:17",
+      "gunes": "05:05",
+      "ogle": "12:39",
+      "ikindi": "16:32",
+      "aksam": "20:04",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "30 Haziran 2026 Salı",
+      "hicri": "15 Muharrem 1448",
+      "imsak": "03:18",
+      "gunes": "05:05",
+      "ogle": "12:39",
+      "ikindi": "16:32",
+      "aksam": "20:04",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "01 Temmuz 2026 Çarşamba",
+      "hicri": "16 Muharrem 1448",
+      "imsak": "03:18",
+      "gunes": "05:06",
+      "ogle": "12:40",
+      "ikindi": "16:32",
+      "aksam": "20:04",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "02 Temmuz 2026 Perşembe",
+      "hicri": "17 Muharrem 1448",
+      "imsak": "03:19",
+      "gunes": "05:06",
+      "ogle": "12:40",
+      "ikindi": "16:32",
+      "aksam": "20:04",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "03 Temmuz 2026 Cuma",
+      "hicri": "18 Muharrem 1448",
+      "imsak": "03:20",
+      "gunes": "05:07",
+      "ogle": "12:40",
+      "ikindi": "16:33",
+      "aksam": "20:04",
+      "yatsi": "21:43"
+    },
+    {
+      "tarih": "04 Temmuz 2026 Cumartesi",
+      "hicri": "19 Muharrem 1448",
+      "imsak": "03:21",
+      "gunes": "05:07",
+      "ogle": "12:40",
+      "ikindi": "16:33",
+      "aksam": "20:03",
+      "yatsi": "21:42"
+    },
+    {
+      "tarih": "05 Temmuz 2026 Pazar",
+      "hicri": "20 Muharrem 1448",
+      "imsak": "03:21",
+      "gunes": "05:08",
+      "ogle": "12:40",
+      "ikindi": "16:33",
+      "aksam": "20:03",
+      "yatsi": "21:42"
+    },
+    {
+      "tarih": "06 Temmuz 2026 Pazartesi",
+      "hicri": "21 Muharrem 1448",
+      "imsak": "03:22",
+      "gunes": "05:08",
+      "ogle": "12:41",
+      "ikindi": "16:33",
+      "aksam": "20:03",
+      "yatsi": "21:41"
+    },
+    {
+      "tarih": "07 Temmuz 2026 Salı",
+      "hicri": "22 Muharrem 1448",
+      "imsak": "03:23",
+      "gunes": "05:09",
+      "ogle": "12:41",
+      "ikindi": "16:33",
+      "aksam": "20:03",
+      "yatsi": "21:41"
+    },
+    {
+      "tarih": "08 Temmuz 2026 Çarşamba",
+      "hicri": "23 Muharrem 1448",
+      "imsak": "03:24",
+      "gunes": "05:09",
+      "ogle": "12:41",
+      "ikindi": "16:33",
+      "aksam": "20:03",
+      "yatsi": "21:40"
+    },
+    {
+      "tarih": "09 Temmuz 2026 Perşembe",
+      "hicri": "24 Muharrem 1448",
+      "imsak": "03:25",
+      "gunes": "05:10",
+      "ogle": "12:41",
+      "ikindi": "16:33",
+      "aksam": "20:02",
+      "yatsi": "21:40"
+    },
+    {
+      "tarih": "10 Temmuz 2026 Cuma",
+      "hicri": "25 Muharrem 1448",
+      "imsak": "03:26",
+      "gunes": "05:11",
+      "ogle": "12:41",
+      "ikindi": "16:33",
+      "aksam": "20:02",
+      "yatsi": "21:39"
+    },
+    {
+      "tarih": "11 Temmuz 2026 Cumartesi",
+      "hicri": "26 Muharrem 1448",
+      "imsak": "03:27",
+      "gunes": "05:11",
+      "ogle": "12:41",
+      "ikindi": "16:33",
+      "aksam": "20:02",
+      "yatsi": "21:39"
+    },
+    {
+      "tarih": "12 Temmuz 2026 Pazar",
+      "hicri": "27 Muharrem 1448",
+      "imsak": "03:28",
+      "gunes": "05:12",
+      "ogle": "12:41",
+      "ikindi": "16:34",
+      "aksam": "20:01",
+      "yatsi": "21:38"
+    },
+    {
+      "tarih": "13 Temmuz 2026 Pazartesi",
+      "hicri": "28 Muharrem 1448",
+      "imsak": "03:29",
+      "gunes": "05:12",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "20:01",
+      "yatsi": "21:37"
+    },
+    {
+      "tarih": "14 Temmuz 2026 Salı",
+      "hicri": "29 Muharrem 1448",
+      "imsak": "03:30",
+      "gunes": "05:13",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "20:00",
+      "yatsi": "21:36"
+    },
+    {
+      "tarih": "15 Temmuz 2026 Çarşamba",
+      "hicri": "1 Safer 1448",
+      "imsak": "03:31",
+      "gunes": "05:14",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "20:00",
+      "yatsi": "21:36"
+    },
+    {
+      "tarih": "16 Temmuz 2026 Perşembe",
+      "hicri": "2 Safer 1448",
+      "imsak": "03:32",
+      "gunes": "05:15",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "19:59",
+      "yatsi": "21:35"
+    },
+    {
+      "tarih": "17 Temmuz 2026 Cuma",
+      "hicri": "3 Safer 1448",
+      "imsak": "03:33",
+      "gunes": "05:15",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "19:59",
+      "yatsi": "21:34"
+    },
+    {
+      "tarih": "18 Temmuz 2026 Cumartesi",
+      "hicri": "4 Safer 1448",
+      "imsak": "03:34",
+      "gunes": "05:16",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "19:58",
+      "yatsi": "21:33"
+    },
+    {
+      "tarih": "19 Temmuz 2026 Pazar",
+      "hicri": "5 Safer 1448",
+      "imsak": "03:35",
+      "gunes": "05:17",
+      "ogle": "12:42",
+      "ikindi": "16:34",
+      "aksam": "19:58",
+      "yatsi": "21:32"
+    },
+    {
+      "tarih": "20 Temmuz 2026 Pazartesi",
+      "hicri": "6 Safer 1448",
+      "imsak": "03:36",
+      "gunes": "05:18",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:57",
+      "yatsi": "21:31"
+    },
+    {
+      "tarih": "21 Temmuz 2026 Salı",
+      "hicri": "7 Safer 1448",
+      "imsak": "03:37",
+      "gunes": "05:18",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:56",
+      "yatsi": "21:30"
+    },
+    {
+      "tarih": "22 Temmuz 2026 Çarşamba",
+      "hicri": "8 Safer 1448",
+      "imsak": "03:39",
+      "gunes": "05:19",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:56",
+      "yatsi": "21:29"
+    },
+    {
+      "tarih": "23 Temmuz 2026 Perşembe",
+      "hicri": "9 Safer 1448",
+      "imsak": "03:40",
+      "gunes": "05:20",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:55",
+      "yatsi": "21:28"
+    },
+    {
+      "tarih": "24 Temmuz 2026 Cuma",
+      "hicri": "10 Safer 1448",
+      "imsak": "03:41",
+      "gunes": "05:21",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:54",
+      "yatsi": "21:27"
+    },
+    {
+      "tarih": "25 Temmuz 2026 Cumartesi",
+      "hicri": "11 Safer 1448",
+      "imsak": "03:42",
+      "gunes": "05:21",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:53",
+      "yatsi": "21:26"
+    },
+    {
+      "tarih": "26 Temmuz 2026 Pazar",
+      "hicri": "12 Safer 1448",
+      "imsak": "03:43",
+      "gunes": "05:22",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:53",
+      "yatsi": "21:24"
+    },
+    {
+      "tarih": "27 Temmuz 2026 Pazartesi",
+      "hicri": "13 Safer 1448",
+      "imsak": "03:45",
+      "gunes": "05:23",
+      "ogle": "12:42",
+      "ikindi": "16:33",
+      "aksam": "19:52",
+      "yatsi": "21:23"
+    },
+    {
+      "tarih": "28 Temmuz 2026 Salı",
+      "hicri": "14 Safer 1448",
+      "imsak": "03:46",
+      "gunes": "05:24",
+      "ogle": "12:42",
+      "ikindi": "16:32",
+      "aksam": "19:51",
+      "yatsi": "21:22"
+    },
+    {
+      "tarih": "29 Temmuz 2026 Çarşamba",
+      "hicri": "15 Safer 1448",
+      "imsak": "03:47",
+      "gunes": "05:25",
+      "ogle": "12:42",
+      "ikindi": "16:32",
+      "aksam": "19:50",
+      "yatsi": "21:21"
+    },
+    {
+      "tarih": "30 Temmuz 2026 Perşembe",
+      "hicri": "16 Safer 1448",
+      "imsak": "03:48",
+      "gunes": "05:26",
+      "ogle": "12:42",
+      "ikindi": "16:32",
+      "aksam": "19:49",
+      "yatsi": "21:19"
+    },
+    {
+      "tarih": "31 Temmuz 2026 Cuma",
+      "hicri": "17 Safer 1448",
+      "imsak": "03:50",
+      "gunes": "05:26",
+      "ogle": "12:42",
+      "ikindi": "16:32",
+      "aksam": "19:48",
+      "yatsi": "21:18"
+    },
+    {
+      "tarih": "01 Ağustos 2026 Cumartesi",
+      "hicri": "18 Safer 1448",
+      "imsak": "03:51",
+      "gunes": "05:27",
+      "ogle": "12:42",
+      "ikindi": "16:32",
+      "aksam": "19:47",
+      "yatsi": "21:17"
+    },
+    {
+      "tarih": "02 Ağustos 2026 Pazar",
+      "hicri": "19 Safer 1448",
+      "imsak": "03:52",
+      "gunes": "05:28",
+      "ogle": "12:42",
+      "ikindi": "16:31",
+      "aksam": "19:46",
+      "yatsi": "21:15"
+    },
+    {
+      "tarih": "03 Ağustos 2026 Pazartesi",
+      "hicri": "20 Safer 1448",
+      "imsak": "03:54",
+      "gunes": "05:29",
+      "ogle": "12:42",
+      "ikindi": "16:31",
+      "aksam": "19:45",
+      "yatsi": "21:14"
+    },
+    {
+      "tarih": "04 Ağustos 2026 Salı",
+      "hicri": "21 Safer 1448",
+      "imsak": "03:55",
+      "gunes": "05:30",
+      "ogle": "12:42",
+      "ikindi": "16:31",
+      "aksam": "19:44",
+      "yatsi": "21:13"
+    },
+    {
+      "tarih": "05 Ağustos 2026 Çarşamba",
+      "hicri": "22 Safer 1448",
+      "imsak": "03:56",
+      "gunes": "05:31",
+      "ogle": "12:42",
+      "ikindi": "16:30",
+      "aksam": "19:43",
+      "yatsi": "21:11"
+    },
+    {
+      "tarih": "06 Ağustos 2026 Perşembe",
+      "hicri": "23 Safer 1448",
+      "imsak": "03:57",
+      "gunes": "05:31",
+      "ogle": "12:42",
+      "ikindi": "16:30",
+      "aksam": "19:42",
+      "yatsi": "21:10"
+    },
+    {
+      "tarih": "07 Ağustos 2026 Cuma",
+      "hicri": "24 Safer 1448",
+      "imsak": "03:59",
+      "gunes": "05:32",
+      "ogle": "12:42",
+      "ikindi": "16:30",
+      "aksam": "19:41",
+      "yatsi": "21:08"
+    },
+    {
+      "tarih": "08 Ağustos 2026 Cumartesi",
+      "hicri": "25 Safer 1448",
+      "imsak": "04:00",
+      "gunes": "05:33",
+      "ogle": "12:42",
+      "ikindi": "16:29",
+      "aksam": "19:40",
+      "yatsi": "21:07"
+    },
+    {
+      "tarih": "09 Ağustos 2026 Pazar",
+      "hicri": "26 Safer 1448",
+      "imsak": "04:01",
+      "gunes": "05:34",
+      "ogle": "12:41",
+      "ikindi": "16:29",
+      "aksam": "19:39",
+      "yatsi": "21:05"
+    },
+    {
+      "tarih": "10 Ağustos 2026 Pazartesi",
+      "hicri": "27 Safer 1448",
+      "imsak": "04:02",
+      "gunes": "05:35",
+      "ogle": "12:41",
+      "ikindi": "16:28",
+      "aksam": "19:38",
+      "yatsi": "21:04"
+    },
+    {
+      "tarih": "11 Ağustos 2026 Salı",
+      "hicri": "28 Safer 1448",
+      "imsak": "04:04",
+      "gunes": "05:36",
+      "ogle": "12:41",
+      "ikindi": "16:28",
+      "aksam": "19:37",
+      "yatsi": "21:02"
+    },
+    {
+      "tarih": "12 Ağustos 2026 Çarşamba",
+      "hicri": "29 Safer 1448",
+      "imsak": "04:05",
+      "gunes": "05:37",
+      "ogle": "12:41",
+      "ikindi": "16:28",
+      "aksam": "19:35",
+      "yatsi": "21:01"
+    },
+    {
+      "tarih": "13 Ağustos 2026 Perşembe",
+      "hicri": "30 Safer 1448",
+      "imsak": "04:06",
+      "gunes": "05:37",
+      "ogle": "12:41",
+      "ikindi": "16:27",
+      "aksam": "19:34",
+      "yatsi": "20:59"
+    },
+    {
+      "tarih": "14 Ağustos 2026 Cuma",
+      "hicri": "1 Rebiulevvel 1448",
+      "imsak": "04:07",
+      "gunes": "05:38",
+      "ogle": "12:41",
+      "ikindi": "16:27",
+      "aksam": "19:33",
+      "yatsi": "20:58"
+    },
+    {
+      "tarih": "15 Ağustos 2026 Cumartesi",
+      "hicri": "2 Rebiulevvel 1448",
+      "imsak": "04:09",
+      "gunes": "05:39",
+      "ogle": "12:40",
+      "ikindi": "16:26",
+      "aksam": "19:32",
+      "yatsi": "20:56"
+    },
+    {
+      "tarih": "16 Ağustos 2026 Pazar",
+      "hicri": "3 Rebiulevvel 1448",
+      "imsak": "04:10",
+      "gunes": "05:40",
+      "ogle": "12:40",
+      "ikindi": "16:25",
+      "aksam": "19:31",
+      "yatsi": "20:54"
+    },
+    {
+      "tarih": "17 Ağustos 2026 Pazartesi",
+      "hicri": "4 Rebiulevvel 1448",
+      "imsak": "04:11",
+      "gunes": "05:41",
+      "ogle": "12:40",
+      "ikindi": "16:25",
+      "aksam": "19:29",
+      "yatsi": "20:53"
+    },
+    {
+      "tarih": "18 Ağustos 2026 Salı",
+      "hicri": "5 Rebiulevvel 1448",
+      "imsak": "04:12",
+      "gunes": "05:42",
+      "ogle": "12:40",
+      "ikindi": "16:24",
+      "aksam": "19:28",
+      "yatsi": "20:51"
+    },
+    {
+      "tarih": "19 Ağustos 2026 Çarşamba",
+      "hicri": "6 Rebiulevvel 1448",
+      "imsak": "04:14",
+      "gunes": "05:43",
+      "ogle": "12:40",
+      "ikindi": "16:24",
+      "aksam": "19:27",
+      "yatsi": "20:50"
+    },
+    {
+      "tarih": "20 Ağustos 2026 Perşembe",
+      "hicri": "7 Rebiulevvel 1448",
+      "imsak": "04:15",
+      "gunes": "05:43",
+      "ogle": "12:39",
+      "ikindi": "16:23",
+      "aksam": "19:25",
+      "yatsi": "20:48"
+    },
+    {
+      "tarih": "21 Ağustos 2026 Cuma",
+      "hicri": "8 Rebiulevvel 1448",
+      "imsak": "04:16",
+      "gunes": "05:44",
+      "ogle": "12:39",
+      "ikindi": "16:23",
+      "aksam": "19:24",
+      "yatsi": "20:46"
+    },
+    {
+      "tarih": "22 Ağustos 2026 Cumartesi",
+      "hicri": "9 Rebiulevvel 1448",
+      "imsak": "04:17",
+      "gunes": "05:45",
+      "ogle": "12:39",
+      "ikindi": "16:22",
+      "aksam": "19:23",
+      "yatsi": "20:45"
+    },
+    {
+      "tarih": "23 Ağustos 2026 Pazar",
+      "hicri": "10 Rebiulevvel 1448",
+      "imsak": "04:18",
+      "gunes": "05:46",
+      "ogle": "12:39",
+      "ikindi": "16:21",
+      "aksam": "19:21",
+      "yatsi": "20:43"
+    },
+    {
+      "tarih": "24 Ağustos 2026 Pazartesi",
+      "hicri": "11 Rebiulevvel 1448",
+      "imsak": "04:20",
+      "gunes": "05:47",
+      "ogle": "12:38",
+      "ikindi": "16:21",
+      "aksam": "19:20",
+      "yatsi": "20:41"
+    },
+    {
+      "tarih": "25 Ağustos 2026 Salı",
+      "hicri": "12 Rebiulevvel 1448",
+      "imsak": "04:21",
+      "gunes": "05:48",
+      "ogle": "12:38",
+      "ikindi": "16:20",
+      "aksam": "19:18",
+      "yatsi": "20:40"
+    },
+    {
+      "tarih": "26 Ağustos 2026 Çarşamba",
+      "hicri": "13 Rebiulevvel 1448",
+      "imsak": "04:22",
+      "gunes": "05:49",
+      "ogle": "12:38",
+      "ikindi": "16:19",
+      "aksam": "19:17",
+      "yatsi": "20:38"
+    },
+    {
+      "tarih": "27 Ağustos 2026 Perşembe",
+      "hicri": "14 Rebiulevvel 1448",
+      "imsak": "04:23",
+      "gunes": "05:49",
+      "ogle": "12:38",
+      "ikindi": "16:18",
+      "aksam": "19:16",
+      "yatsi": "20:36"
+    },
+    {
+      "tarih": "28 Ağustos 2026 Cuma",
+      "hicri": "15 Rebiulevvel 1448",
+      "imsak": "04:24",
+      "gunes": "05:50",
+      "ogle": "12:37",
+      "ikindi": "16:18",
+      "aksam": "19:14",
+      "yatsi": "20:35"
+    },
+    {
+      "tarih": "29 Ağustos 2026 Cumartesi",
+      "hicri": "16 Rebiulevvel 1448",
+      "imsak": "04:25",
+      "gunes": "05:51",
+      "ogle": "12:37",
+      "ikindi": "16:17",
+      "aksam": "19:13",
+      "yatsi": "20:33"
+    },
+    {
+      "tarih": "30 Ağustos 2026 Pazar",
+      "hicri": "17 Rebiulevvel 1448",
+      "imsak": "04:27",
+      "gunes": "05:52",
+      "ogle": "12:37",
+      "ikindi": "16:16",
+      "aksam": "19:11",
+      "yatsi": "20:31"
+    },
+    {
+      "tarih": "31 Ağustos 2026 Pazartesi",
+      "hicri": "18 Rebiulevvel 1448",
+      "imsak": "04:28",
+      "gunes": "05:53",
+      "ogle": "12:36",
+      "ikindi": "16:15",
+      "aksam": "19:10",
+      "yatsi": "20:29"
+    },
+    {
+      "tarih": "01 Eylül 2026 Salı",
+      "hicri": "19 Rebiulevvel 1448",
+      "imsak": "04:29",
+      "gunes": "05:54",
+      "ogle": "12:36",
+      "ikindi": "16:15",
+      "aksam": "19:08",
+      "yatsi": "20:28"
+    },
+    {
+      "tarih": "02 Eylül 2026 Çarşamba",
+      "hicri": "20 Rebiulevvel 1448",
+      "imsak": "04:30",
+      "gunes": "05:55",
+      "ogle": "12:36",
+      "ikindi": "16:14",
+      "aksam": "19:07",
+      "yatsi": "20:26"
+    },
+    {
+      "tarih": "03 Eylül 2026 Perşembe",
+      "hicri": "21 Rebiulevvel 1448",
+      "imsak": "04:31",
+      "gunes": "05:55",
+      "ogle": "12:35",
+      "ikindi": "16:13",
+      "aksam": "19:05",
+      "yatsi": "20:24"
+    },
+    {
+      "tarih": "04 Eylül 2026 Cuma",
+      "hicri": "22 Rebiulevvel 1448",
+      "imsak": "04:32",
+      "gunes": "05:56",
+      "ogle": "12:35",
+      "ikindi": "16:12",
+      "aksam": "19:04",
+      "yatsi": "20:23"
+    },
+    {
+      "tarih": "05 Eylül 2026 Cumartesi",
+      "hicri": "23 Rebiulevvel 1448",
+      "imsak": "04:33",
+      "gunes": "05:57",
+      "ogle": "12:35",
+      "ikindi": "16:11",
+      "aksam": "19:02",
+      "yatsi": "20:21"
+    },
+    {
+      "tarih": "06 Eylül 2026 Pazar",
+      "hicri": "24 Rebiulevvel 1448",
+      "imsak": "04:34",
+      "gunes": "05:58",
+      "ogle": "12:34",
+      "ikindi": "16:10",
+      "aksam": "19:01",
+      "yatsi": "20:19"
+    },
+    {
+      "tarih": "07 Eylül 2026 Pazartesi",
+      "hicri": "25 Rebiulevvel 1448",
+      "imsak": "04:35",
+      "gunes": "05:59",
+      "ogle": "12:34",
+      "ikindi": "16:10",
+      "aksam": "18:59",
+      "yatsi": "20:17"
+    },
+    {
+      "tarih": "08 Eylül 2026 Salı",
+      "hicri": "26 Rebiulevvel 1448",
+      "imsak": "04:36",
+      "gunes": "06:00",
+      "ogle": "12:34",
+      "ikindi": "16:09",
+      "aksam": "18:58",
+      "yatsi": "20:16"
+    },
+    {
+      "tarih": "09 Eylül 2026 Çarşamba",
+      "hicri": "27 Rebiulevvel 1448",
+      "imsak": "04:37",
+      "gunes": "06:00",
+      "ogle": "12:33",
+      "ikindi": "16:08",
+      "aksam": "18:56",
+      "yatsi": "20:14"
+    },
+    {
+      "tarih": "10 Eylül 2026 Perşembe",
+      "hicri": "28 Rebiulevvel 1448",
+      "imsak": "04:38",
+      "gunes": "06:01",
+      "ogle": "12:33",
+      "ikindi": "16:07",
+      "aksam": "18:55",
+      "yatsi": "20:12"
+    },
+    {
+      "tarih": "11 Eylül 2026 Cuma",
+      "hicri": "29 Rebiulevvel 1448",
+      "imsak": "04:39",
+      "gunes": "06:02",
+      "ogle": "12:33",
+      "ikindi": "16:06",
+      "aksam": "18:53",
+      "yatsi": "20:10"
+    },
+    {
+      "tarih": "12 Eylül 2026 Cumartesi",
+      "hicri": "1 Rebiulahir 1448",
+      "imsak": "04:41",
+      "gunes": "06:03",
+      "ogle": "12:32",
+      "ikindi": "16:05",
+      "aksam": "18:52",
+      "yatsi": "20:09"
+    },
+    {
+      "tarih": "13 Eylül 2026 Pazar",
+      "hicri": "2 Rebiulahir 1448",
+      "imsak": "04:42",
+      "gunes": "06:04",
+      "ogle": "12:32",
+      "ikindi": "16:04",
+      "aksam": "18:50",
+      "yatsi": "20:07"
+    },
+    {
+      "tarih": "14 Eylül 2026 Pazartesi",
+      "hicri": "3 Rebiulahir 1448",
+      "imsak": "04:43",
+      "gunes": "06:05",
+      "ogle": "12:32",
+      "ikindi": "16:03",
+      "aksam": "18:49",
+      "yatsi": "20:05"
+    },
+    {
+      "tarih": "15 Eylül 2026 Salı",
+      "hicri": "4 Rebiulahir 1448",
+      "imsak": "04:44",
+      "gunes": "06:05",
+      "ogle": "12:31",
+      "ikindi": "16:02",
+      "aksam": "18:47",
+      "yatsi": "20:04"
+    },
+    {
+      "tarih": "16 Eylül 2026 Çarşamba",
+      "hicri": "5 Rebiulahir 1448",
+      "imsak": "04:45",
+      "gunes": "06:06",
+      "ogle": "12:31",
+      "ikindi": "16:01",
+      "aksam": "18:46",
+      "yatsi": "20:02"
+    },
+    {
+      "tarih": "17 Eylül 2026 Perşembe",
+      "hicri": "6 Rebiulahir 1448",
+      "imsak": "04:46",
+      "gunes": "06:07",
+      "ogle": "12:31",
+      "ikindi": "16:00",
+      "aksam": "18:44",
+      "yatsi": "20:00"
+    },
+    {
+      "tarih": "18 Eylül 2026 Cuma",
+      "hicri": "7 Rebiulahir 1448",
+      "imsak": "04:47",
+      "gunes": "06:08",
+      "ogle": "12:30",
+      "ikindi": "15:59",
+      "aksam": "18:42",
+      "yatsi": "19:59"
+    },
+    {
+      "tarih": "19 Eylül 2026 Cumartesi",
+      "hicri": "8 Rebiulahir 1448",
+      "imsak": "04:48",
+      "gunes": "06:09",
+      "ogle": "12:30",
+      "ikindi": "15:58",
+      "aksam": "18:41",
+      "yatsi": "19:57"
+    },
+    {
+      "tarih": "20 Eylül 2026 Pazar",
+      "hicri": "9 Rebiulahir 1448",
+      "imsak": "04:48",
+      "gunes": "06:10",
+      "ogle": "12:29",
+      "ikindi": "15:57",
+      "aksam": "18:39",
+      "yatsi": "19:55"
+    },
+    {
+      "tarih": "21 Eylül 2026 Pazartesi",
+      "hicri": "10 Rebiulahir 1448",
+      "imsak": "04:49",
+      "gunes": "06:10",
+      "ogle": "12:29",
+      "ikindi": "15:56",
+      "aksam": "18:38",
+      "yatsi": "19:54"
+    },
+    {
+      "tarih": "22 Eylül 2026 Salı",
+      "hicri": "11 Rebiulahir 1448",
+      "imsak": "04:50",
+      "gunes": "06:11",
+      "ogle": "12:29",
+      "ikindi": "15:55",
+      "aksam": "18:36",
+      "yatsi": "19:52"
+    },
+    {
+      "tarih": "23 Eylül 2026 Çarşamba",
+      "hicri": "12 Rebiulahir 1448",
+      "imsak": "04:51",
+      "gunes": "06:12",
+      "ogle": "12:28",
+      "ikindi": "15:54",
+      "aksam": "18:35",
+      "yatsi": "19:50"
+    },
+    {
+      "tarih": "24 Eylül 2026 Perşembe",
+      "hicri": "13 Rebiulahir 1448",
+      "imsak": "04:52",
+      "gunes": "06:13",
+      "ogle": "12:28",
+      "ikindi": "15:53",
+      "aksam": "18:33",
+      "yatsi": "19:49"
+    },
+    {
+      "tarih": "25 Eylül 2026 Cuma",
+      "hicri": "14 Rebiulahir 1448",
+      "imsak": "04:53",
+      "gunes": "06:14",
+      "ogle": "12:28",
+      "ikindi": "15:52",
+      "aksam": "18:32",
+      "yatsi": "19:47"
+    },
+    {
+      "tarih": "26 Eylül 2026 Cumartesi",
+      "hicri": "15 Rebiulahir 1448",
+      "imsak": "04:54",
+      "gunes": "06:15",
+      "ogle": "12:27",
+      "ikindi": "15:51",
+      "aksam": "18:30",
+      "yatsi": "19:45"
+    },
+    {
+      "tarih": "27 Eylül 2026 Pazar",
+      "hicri": "16 Rebiulahir 1448",
+      "imsak": "04:55",
+      "gunes": "06:16",
+      "ogle": "12:27",
+      "ikindi": "15:50",
+      "aksam": "18:28",
+      "yatsi": "19:44"
+    },
+    {
+      "tarih": "28 Eylül 2026 Pazartesi",
+      "hicri": "17 Rebiulahir 1448",
+      "imsak": "04:56",
+      "gunes": "06:16",
+      "ogle": "12:27",
+      "ikindi": "15:49",
+      "aksam": "18:27",
+      "yatsi": "19:42"
+    },
+    {
+      "tarih": "29 Eylül 2026 Salı",
+      "hicri": "18 Rebiulahir 1448",
+      "imsak": "04:57",
+      "gunes": "06:17",
+      "ogle": "12:26",
+      "ikindi": "15:48",
+      "aksam": "18:25",
+      "yatsi": "19:40"
+    },
+    {
+      "tarih": "30 Eylül 2026 Çarşamba",
+      "hicri": "19 Rebiulahir 1448",
+      "imsak": "04:58",
+      "gunes": "06:18",
+      "ogle": "12:26",
+      "ikindi": "15:46",
+      "aksam": "18:24",
+      "yatsi": "19:39"
+    },
+    {
+      "tarih": "01 Ekim 2026 Perşembe",
+      "hicri": "20 Rebiulahir 1448",
+      "imsak": "04:59",
+      "gunes": "06:19",
+      "ogle": "12:26",
+      "ikindi": "15:45",
+      "aksam": "18:22",
+      "yatsi": "19:37"
+    },
+    {
+      "tarih": "02 Ekim 2026 Cuma",
+      "hicri": "21 Rebiulahir 1448",
+      "imsak": "05:00",
+      "gunes": "06:20",
+      "ogle": "12:25",
+      "ikindi": "15:44",
+      "aksam": "18:21",
+      "yatsi": "19:36"
+    },
+    {
+      "tarih": "03 Ekim 2026 Cumartesi",
+      "hicri": "22 Rebiulahir 1448",
+      "imsak": "05:01",
+      "gunes": "06:21",
+      "ogle": "12:25",
+      "ikindi": "15:43",
+      "aksam": "18:19",
+      "yatsi": "19:34"
+    },
+    {
+      "tarih": "04 Ekim 2026 Pazar",
+      "hicri": "23 Rebiulahir 1448",
+      "imsak": "05:02",
+      "gunes": "06:22",
+      "ogle": "12:25",
+      "ikindi": "15:42",
+      "aksam": "18:18",
+      "yatsi": "19:33"
+    },
+    {
+      "tarih": "05 Ekim 2026 Pazartesi",
+      "hicri": "24 Rebiulahir 1448",
+      "imsak": "05:03",
+      "gunes": "06:23",
+      "ogle": "12:24",
+      "ikindi": "15:41",
+      "aksam": "18:16",
+      "yatsi": "19:31"
+    },
+    {
+      "tarih": "06 Ekim 2026 Salı",
+      "hicri": "25 Rebiulahir 1448",
+      "imsak": "05:04",
+      "gunes": "06:24",
+      "ogle": "12:24",
+      "ikindi": "15:40",
+      "aksam": "18:15",
+      "yatsi": "19:30"
+    },
+    {
+      "tarih": "07 Ekim 2026 Çarşamba",
+      "hicri": "26 Rebiulahir 1448",
+      "imsak": "05:04",
+      "gunes": "06:24",
+      "ogle": "12:24",
+      "ikindi": "15:39",
+      "aksam": "18:13",
+      "yatsi": "19:28"
+    },
+    {
+      "tarih": "08 Ekim 2026 Perşembe",
+      "hicri": "27 Rebiulahir 1448",
+      "imsak": "05:05",
+      "gunes": "06:25",
+      "ogle": "12:24",
+      "ikindi": "15:38",
+      "aksam": "18:12",
+      "yatsi": "19:27"
+    },
+    {
+      "tarih": "09 Ekim 2026 Cuma",
+      "hicri": "28 Rebiulahir 1448",
+      "imsak": "05:06",
+      "gunes": "06:26",
+      "ogle": "12:23",
+      "ikindi": "15:37",
+      "aksam": "18:10",
+      "yatsi": "19:25"
+    },
+    {
+      "tarih": "10 Ekim 2026 Cumartesi",
+      "hicri": "29 Rebiulahir 1448",
+      "imsak": "05:07",
+      "gunes": "06:27",
+      "ogle": "12:23",
+      "ikindi": "15:36",
+      "aksam": "18:09",
+      "yatsi": "19:24"
+    },
+    {
+      "tarih": "11 Ekim 2026 Pazar",
+      "hicri": "30 Rebiulahir 1448",
+      "imsak": "05:08",
+      "gunes": "06:28",
+      "ogle": "12:23",
+      "ikindi": "15:35",
+      "aksam": "18:07",
+      "yatsi": "19:22"
+    },
+    {
+      "tarih": "12 Ekim 2026 Pazartesi",
+      "hicri": "1 Cemaziyelevvel 1448",
+      "imsak": "05:09",
+      "gunes": "06:29",
+      "ogle": "12:22",
+      "ikindi": "15:33",
+      "aksam": "18:06",
+      "yatsi": "19:21"
+    },
+    {
+      "tarih": "13 Ekim 2026 Salı",
+      "hicri": "2 Cemaziyelevvel 1448",
+      "imsak": "05:10",
+      "gunes": "06:30",
+      "ogle": "12:22",
+      "ikindi": "15:32",
+      "aksam": "18:04",
+      "yatsi": "19:20"
+    },
+    {
+      "tarih": "14 Ekim 2026 Çarşamba",
+      "hicri": "3 Cemaziyelevvel 1448",
+      "imsak": "05:11",
+      "gunes": "06:31",
+      "ogle": "12:22",
+      "ikindi": "15:31",
+      "aksam": "18:03",
+      "yatsi": "19:18"
+    },
+    {
+      "tarih": "15 Ekim 2026 Perşembe",
+      "hicri": "4 Cemaziyelevvel 1448",
+      "imsak": "05:12",
+      "gunes": "06:32",
+      "ogle": "12:22",
+      "ikindi": "15:30",
+      "aksam": "18:02",
+      "yatsi": "19:17"
+    },
+    {
+      "tarih": "16 Ekim 2026 Cuma",
+      "hicri": "5 Cemaziyelevvel 1448",
+      "imsak": "05:13",
+      "gunes": "06:33",
+      "ogle": "12:22",
+      "ikindi": "15:29",
+      "aksam": "18:00",
+      "yatsi": "19:15"
+    },
+    {
+      "tarih": "17 Ekim 2026 Cumartesi",
+      "hicri": "6 Cemaziyelevvel 1448",
+      "imsak": "05:13",
+      "gunes": "06:34",
+      "ogle": "12:21",
+      "ikindi": "15:28",
+      "aksam": "17:59",
+      "yatsi": "19:14"
+    },
+    {
+      "tarih": "18 Ekim 2026 Pazar",
+      "hicri": "7 Cemaziyelevvel 1448",
+      "imsak": "05:14",
+      "gunes": "06:35",
+      "ogle": "12:21",
+      "ikindi": "15:27",
+      "aksam": "17:58",
+      "yatsi": "19:13"
+    },
+    {
+      "tarih": "19 Ekim 2026 Pazartesi",
+      "hicri": "8 Cemaziyelevvel 1448",
+      "imsak": "05:15",
+      "gunes": "06:36",
+      "ogle": "12:21",
+      "ikindi": "15:26",
+      "aksam": "17:56",
+      "yatsi": "19:12"
+    },
+    {
+      "tarih": "20 Ekim 2026 Salı",
+      "hicri": "9 Cemaziyelevvel 1448",
+      "imsak": "05:16",
+      "gunes": "06:37",
+      "ogle": "12:21",
+      "ikindi": "15:25",
+      "aksam": "17:55",
+      "yatsi": "19:10"
+    },
+    {
+      "tarih": "21 Ekim 2026 Çarşamba",
+      "hicri": "10 Cemaziyelevvel 1448",
+      "imsak": "05:17",
+      "gunes": "06:38",
+      "ogle": "12:21",
+      "ikindi": "15:24",
+      "aksam": "17:54",
+      "yatsi": "19:09"
+    },
+    {
+      "tarih": "22 Ekim 2026 Perşembe",
+      "hicri": "11 Cemaziyelevvel 1448",
+      "imsak": "05:18",
+      "gunes": "06:39",
+      "ogle": "12:20",
+      "ikindi": "15:23",
+      "aksam": "17:52",
+      "yatsi": "19:08"
+    },
+    {
+      "tarih": "23 Ekim 2026 Cuma",
+      "hicri": "12 Cemaziyelevvel 1448",
+      "imsak": "05:19",
+      "gunes": "06:40",
+      "ogle": "12:20",
+      "ikindi": "15:22",
+      "aksam": "17:51",
+      "yatsi": "19:07"
+    },
+    {
+      "tarih": "24 Ekim 2026 Cumartesi",
+      "hicri": "13 Cemaziyelevvel 1448",
+      "imsak": "05:20",
+      "gunes": "06:41",
+      "ogle": "12:20",
+      "ikindi": "15:21",
+      "aksam": "17:50",
+      "yatsi": "19:05"
+    },
+    {
+      "tarih": "25 Ekim 2026 Pazar",
+      "hicri": "14 Cemaziyelevvel 1448",
+      "imsak": "05:21",
+      "gunes": "06:42",
+      "ogle": "12:20",
+      "ikindi": "15:20",
+      "aksam": "17:48",
+      "yatsi": "19:04"
+    },
+    {
+      "tarih": "26 Ekim 2026 Pazartesi",
+      "hicri": "15 Cemaziyelevvel 1448",
+      "imsak": "05:22",
+      "gunes": "06:43",
+      "ogle": "12:20",
+      "ikindi": "15:19",
+      "aksam": "17:47",
+      "yatsi": "19:03"
+    },
+    {
+      "tarih": "27 Ekim 2026 Salı",
+      "hicri": "16 Cemaziyelevvel 1448",
+      "imsak": "05:23",
+      "gunes": "06:44",
+      "ogle": "12:20",
+      "ikindi": "15:18",
+      "aksam": "17:46",
+      "yatsi": "19:02"
+    },
+    {
+      "tarih": "28 Ekim 2026 Çarşamba",
+      "hicri": "17 Cemaziyelevvel 1448",
+      "imsak": "05:23",
+      "gunes": "06:45",
+      "ogle": "12:20",
+      "ikindi": "15:17",
+      "aksam": "17:45",
+      "yatsi": "19:01"
+    },
+    {
+      "tarih": "29 Ekim 2026 Perşembe",
+      "hicri": "18 Cemaziyelevvel 1448",
+      "imsak": "05:24",
+      "gunes": "06:46",
+      "ogle": "12:20",
+      "ikindi": "15:16",
+      "aksam": "17:44",
+      "yatsi": "19:00"
+    },
+    {
+      "tarih": "30 Ekim 2026 Cuma",
+      "hicri": "19 Cemaziyelevvel 1448",
+      "imsak": "05:25",
+      "gunes": "06:47",
+      "ogle": "12:20",
+      "ikindi": "15:15",
+      "aksam": "17:42",
+      "yatsi": "18:59"
+    },
+    {
+      "tarih": "31 Ekim 2026 Cumartesi",
+      "hicri": "20 Cemaziyelevvel 1448",
+      "imsak": "05:26",
+      "gunes": "06:48",
+      "ogle": "12:19",
+      "ikindi": "15:15",
+      "aksam": "17:41",
+      "yatsi": "18:58"
+    },
+    {
+      "tarih": "01 Kasım 2026 Pazar",
+      "hicri": "21 Cemaziyelevvel 1448",
+      "imsak": "05:27",
+      "gunes": "06:49",
+      "ogle": "12:19",
+      "ikindi": "15:14",
+      "aksam": "17:40",
+      "yatsi": "18:57"
+    },
+    {
+      "tarih": "02 Kasım 2026 Pazartesi",
+      "hicri": "22 Cemaziyelevvel 1448",
+      "imsak": "05:28",
+      "gunes": "06:50",
+      "ogle": "12:19",
+      "ikindi": "15:13",
+      "aksam": "17:39",
+      "yatsi": "18:56"
+    },
+    {
+      "tarih": "03 Kasım 2026 Salı",
+      "hicri": "23 Cemaziyelevvel 1448",
+      "imsak": "05:29",
+      "gunes": "06:51",
+      "ogle": "12:19",
+      "ikindi": "15:12",
+      "aksam": "17:38",
+      "yatsi": "18:55"
+    },
+    {
+      "tarih": "04 Kasım 2026 Çarşamba",
+      "hicri": "24 Cemaziyelevvel 1448",
+      "imsak": "05:30",
+      "gunes": "06:52",
+      "ogle": "12:19",
+      "ikindi": "15:11",
+      "aksam": "17:37",
+      "yatsi": "18:54"
+    },
+    {
+      "tarih": "05 Kasım 2026 Perşembe",
+      "hicri": "25 Cemaziyelevvel 1448",
+      "imsak": "05:31",
+      "gunes": "06:53",
+      "ogle": "12:19",
+      "ikindi": "15:10",
+      "aksam": "17:36",
+      "yatsi": "18:53"
+    },
+    {
+      "tarih": "06 Kasım 2026 Cuma",
+      "hicri": "26 Cemaziyelevvel 1448",
+      "imsak": "05:32",
+      "gunes": "06:54",
+      "ogle": "12:19",
+      "ikindi": "15:10",
+      "aksam": "17:35",
+      "yatsi": "18:52"
+    },
+    {
+      "tarih": "07 Kasım 2026 Cumartesi",
+      "hicri": "27 Cemaziyelevvel 1448",
+      "imsak": "05:33",
+      "gunes": "06:55",
+      "ogle": "12:20",
+      "ikindi": "15:09",
+      "aksam": "17:34",
+      "yatsi": "18:51"
+    },
+    {
+      "tarih": "08 Kasım 2026 Pazar",
+      "hicri": "28 Cemaziyelevvel 1448",
+      "imsak": "05:34",
+      "gunes": "06:56",
+      "ogle": "12:20",
+      "ikindi": "15:08",
+      "aksam": "17:33",
+      "yatsi": "18:51"
+    },
+    {
+      "tarih": "09 Kasım 2026 Pazartesi",
+      "hicri": "29 Cemaziyelevvel 1448",
+      "imsak": "05:34",
+      "gunes": "06:57",
+      "ogle": "12:20",
+      "ikindi": "15:07",
+      "aksam": "17:32",
+      "yatsi": "18:50"
+    },
+    {
+      "tarih": "10 Kasım 2026 Salı",
+      "hicri": "1 Cemaziyelahir 1448",
+      "imsak": "05:35",
+      "gunes": "06:58",
+      "ogle": "12:20",
+      "ikindi": "15:07",
+      "aksam": "17:31",
+      "yatsi": "18:49"
+    },
+    {
+      "tarih": "11 Kasım 2026 Çarşamba",
+      "hicri": "2 Cemaziyelahir 1448",
+      "imsak": "05:36",
+      "gunes": "06:59",
+      "ogle": "12:20",
+      "ikindi": "15:06",
+      "aksam": "17:30",
+      "yatsi": "18:48"
+    },
+    {
+      "tarih": "12 Kasım 2026 Perşembe",
+      "hicri": "3 Cemaziyelahir 1448",
+      "imsak": "05:37",
+      "gunes": "07:00",
+      "ogle": "12:20",
+      "ikindi": "15:05",
+      "aksam": "17:30",
+      "yatsi": "18:48"
+    },
+    {
+      "tarih": "13 Kasım 2026 Cuma",
+      "hicri": "4 Cemaziyelahir 1448",
+      "imsak": "05:38",
+      "gunes": "07:01",
+      "ogle": "12:20",
+      "ikindi": "15:05",
+      "aksam": "17:29",
+      "yatsi": "18:47"
+    },
+    {
+      "tarih": "14 Kasım 2026 Cumartesi",
+      "hicri": "5 Cemaziyelahir 1448",
+      "imsak": "05:39",
+      "gunes": "07:03",
+      "ogle": "12:20",
+      "ikindi": "15:04",
+      "aksam": "17:28",
+      "yatsi": "18:46"
+    },
+    {
+      "tarih": "15 Kasım 2026 Pazar",
+      "hicri": "6 Cemaziyelahir 1448",
+      "imsak": "05:40",
+      "gunes": "07:04",
+      "ogle": "12:20",
+      "ikindi": "15:04",
+      "aksam": "17:27",
+      "yatsi": "18:46"
+    },
+    {
+      "tarih": "16 Kasım 2026 Pazartesi",
+      "hicri": "7 Cemaziyelahir 1448",
+      "imsak": "05:41",
+      "gunes": "07:05",
+      "ogle": "12:21",
+      "ikindi": "15:03",
+      "aksam": "17:26",
+      "yatsi": "18:45"
+    },
+    {
+      "tarih": "17 Kasım 2026 Salı",
+      "hicri": "8 Cemaziyelahir 1448",
+      "imsak": "05:42",
+      "gunes": "07:06",
+      "ogle": "12:21",
+      "ikindi": "15:02",
+      "aksam": "17:26",
+      "yatsi": "18:45"
+    },
+    {
+      "tarih": "18 Kasım 2026 Çarşamba",
+      "hicri": "9 Cemaziyelahir 1448",
+      "imsak": "05:43",
+      "gunes": "07:07",
+      "ogle": "12:21",
+      "ikindi": "15:02",
+      "aksam": "17:25",
+      "yatsi": "18:44"
+    },
+    {
+      "tarih": "19 Kasım 2026 Perşembe",
+      "hicri": "10 Cemaziyelahir 1448",
+      "imsak": "05:44",
+      "gunes": "07:08",
+      "ogle": "12:21",
+      "ikindi": "15:01",
+      "aksam": "17:24",
+      "yatsi": "18:44"
+    },
+    {
+      "tarih": "20 Kasım 2026 Cuma",
+      "hicri": "11 Cemaziyelahir 1448",
+      "imsak": "05:44",
+      "gunes": "07:09",
+      "ogle": "12:21",
+      "ikindi": "15:01",
+      "aksam": "17:24",
+      "yatsi": "18:43"
+    },
+    {
+      "tarih": "21 Kasım 2026 Cumartesi",
+      "hicri": "12 Cemaziyelahir 1448",
+      "imsak": "05:45",
+      "gunes": "07:10",
+      "ogle": "12:22",
+      "ikindi": "15:01",
+      "aksam": "17:23",
+      "yatsi": "18:43"
+    },
+    {
+      "tarih": "22 Kasım 2026 Pazar",
+      "hicri": "13 Cemaziyelahir 1448",
+      "imsak": "05:46",
+      "gunes": "07:11",
+      "ogle": "12:22",
+      "ikindi": "15:00",
+      "aksam": "17:23",
+      "yatsi": "18:42"
+    },
+    {
+      "tarih": "23 Kasım 2026 Pazartesi",
+      "hicri": "14 Cemaziyelahir 1448",
+      "imsak": "05:47",
+      "gunes": "07:12",
+      "ogle": "12:22",
+      "ikindi": "15:00",
+      "aksam": "17:22",
+      "yatsi": "18:42"
+    },
+    {
+      "tarih": "24 Kasım 2026 Salı",
+      "hicri": "15 Cemaziyelahir 1448",
+      "imsak": "05:48",
+      "gunes": "07:13",
+      "ogle": "12:22",
+      "ikindi": "14:59",
+      "aksam": "17:22",
+      "yatsi": "18:42"
+    },
+    {
+      "tarih": "25 Kasım 2026 Çarşamba",
+      "hicri": "16 Cemaziyelahir 1448",
+      "imsak": "05:49",
+      "gunes": "07:14",
+      "ogle": "12:23",
+      "ikindi": "14:59",
+      "aksam": "17:21",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "26 Kasım 2026 Perşembe",
+      "hicri": "17 Cemaziyelahir 1448",
+      "imsak": "05:50",
+      "gunes": "07:15",
+      "ogle": "12:23",
+      "ikindi": "14:59",
+      "aksam": "17:21",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "27 Kasım 2026 Cuma",
+      "hicri": "18 Cemaziyelahir 1448",
+      "imsak": "05:51",
+      "gunes": "07:16",
+      "ogle": "12:23",
+      "ikindi": "14:59",
+      "aksam": "17:21",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "28 Kasım 2026 Cumartesi",
+      "hicri": "19 Cemaziyelahir 1448",
+      "imsak": "05:52",
+      "gunes": "07:17",
+      "ogle": "12:24",
+      "ikindi": "14:58",
+      "aksam": "17:20",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "29 Kasım 2026 Pazar",
+      "hicri": "20 Cemaziyelahir 1448",
+      "imsak": "05:52",
+      "gunes": "07:18",
+      "ogle": "12:24",
+      "ikindi": "14:58",
+      "aksam": "17:20",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "30 Kasım 2026 Pazartesi",
+      "hicri": "21 Cemaziyelahir 1448",
+      "imsak": "05:53",
+      "gunes": "07:19",
+      "ogle": "12:24",
+      "ikindi": "14:58",
+      "aksam": "17:20",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "01 Aralık 2026 Salı",
+      "hicri": "22 Cemaziyelahir 1448",
+      "imsak": "05:54",
+      "gunes": "07:20",
+      "ogle": "12:25",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "02 Aralık 2026 Çarşamba",
+      "hicri": "23 Cemaziyelahir 1448",
+      "imsak": "05:55",
+      "gunes": "07:21",
+      "ogle": "12:25",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "03 Aralık 2026 Perşembe",
+      "hicri": "24 Cemaziyelahir 1448",
+      "imsak": "05:56",
+      "gunes": "07:22",
+      "ogle": "12:25",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "04 Aralık 2026 Cuma",
+      "hicri": "25 Cemaziyelahir 1448",
+      "imsak": "05:57",
+      "gunes": "07:23",
+      "ogle": "12:26",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "05 Aralık 2026 Cumartesi",
+      "hicri": "26 Cemaziyelahir 1448",
+      "imsak": "05:57",
+      "gunes": "07:24",
+      "ogle": "12:26",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "06 Aralık 2026 Pazar",
+      "hicri": "27 Cemaziyelahir 1448",
+      "imsak": "05:58",
+      "gunes": "07:25",
+      "ogle": "12:27",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "07 Aralık 2026 Pazartesi",
+      "hicri": "28 Cemaziyelahir 1448",
+      "imsak": "05:59",
+      "gunes": "07:25",
+      "ogle": "12:27",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "08 Aralık 2026 Salı",
+      "hicri": "29 Cemaziyelahir 1448",
+      "imsak": "06:00",
+      "gunes": "07:26",
+      "ogle": "12:28",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "09 Aralık 2026 Çarşamba",
+      "hicri": "30 Cemaziyelahir 1448",
+      "imsak": "06:00",
+      "gunes": "07:27",
+      "ogle": "12:28",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:40"
+    },
+    {
+      "tarih": "10 Aralık 2026 Perşembe",
+      "hicri": "1 Recep 1448",
+      "imsak": "06:01",
+      "gunes": "07:28",
+      "ogle": "12:28",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "11 Aralık 2026 Cuma",
+      "hicri": "2 Recep 1448",
+      "imsak": "06:02",
+      "gunes": "07:29",
+      "ogle": "12:29",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "12 Aralık 2026 Cumartesi",
+      "hicri": "3 Recep 1448",
+      "imsak": "06:02",
+      "gunes": "07:29",
+      "ogle": "12:29",
+      "ikindi": "14:58",
+      "aksam": "17:19",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "13 Aralık 2026 Pazar",
+      "hicri": "4 Recep 1448",
+      "imsak": "06:03",
+      "gunes": "07:30",
+      "ogle": "12:30",
+      "ikindi": "14:59",
+      "aksam": "17:19",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "14 Aralık 2026 Pazartesi",
+      "hicri": "5 Recep 1448",
+      "imsak": "06:04",
+      "gunes": "07:31",
+      "ogle": "12:30",
+      "ikindi": "14:59",
+      "aksam": "17:20",
+      "yatsi": "18:41"
+    },
+    {
+      "tarih": "15 Aralık 2026 Salı",
+      "hicri": "6 Recep 1448",
+      "imsak": "06:04",
+      "gunes": "07:32",
+      "ogle": "12:31",
+      "ikindi": "14:59",
+      "aksam": "17:20",
+      "yatsi": "18:42"
+    },
+    {
+      "tarih": "16 Aralık 2026 Çarşamba",
+      "hicri": "7 Recep 1448",
+      "imsak": "06:05",
+      "gunes": "07:32",
+      "ogle": "12:31",
+      "ikindi": "14:59",
+      "aksam": "17:20",
+      "yatsi": "18:42"
+    },
+    {
+      "tarih": "17 Aralık 2026 Perşembe",
+      "hicri": "8 Recep 1448",
+      "imsak": "06:06",
+      "gunes": "07:33",
+      "ogle": "12:32",
+      "ikindi": "15:00",
+      "aksam": "17:20",
+      "yatsi": "18:42"
+    },
+    {
+      "tarih": "18 Aralık 2026 Cuma",
+      "hicri": "9 Recep 1448",
+      "imsak": "06:06",
+      "gunes": "07:34",
+      "ogle": "12:32",
+      "ikindi": "15:00",
+      "aksam": "17:21",
+      "yatsi": "18:43"
+    },
+    {
+      "tarih": "19 Aralık 2026 Cumartesi",
+      "hicri": "10 Recep 1448",
+      "imsak": "06:07",
+      "gunes": "07:34",
+      "ogle": "12:33",
+      "ikindi": "15:01",
+      "aksam": "17:21",
+      "yatsi": "18:43"
+    },
+    {
+      "tarih": "20 Aralık 2026 Pazar",
+      "hicri": "11 Recep 1448",
+      "imsak": "06:07",
+      "gunes": "07:35",
+      "ogle": "12:33",
+      "ikindi": "15:01",
+      "aksam": "17:22",
+      "yatsi": "18:44"
+    },
+    {
+      "tarih": "21 Aralık 2026 Pazartesi",
+      "hicri": "12 Recep 1448",
+      "imsak": "06:08",
+      "gunes": "07:35",
+      "ogle": "12:34",
+      "ikindi": "15:01",
+      "aksam": "17:22",
+      "yatsi": "18:44"
+    },
+    {
+      "tarih": "22 Aralık 2026 Salı",
+      "hicri": "13 Recep 1448",
+      "imsak": "06:08",
+      "gunes": "07:36",
+      "ogle": "12:34",
+      "ikindi": "15:02",
+      "aksam": "17:23",
+      "yatsi": "18:45"
+    },
+    {
+      "tarih": "23 Aralık 2026 Çarşamba",
+      "hicri": "14 Recep 1448",
+      "imsak": "06:09",
+      "gunes": "07:36",
+      "ogle": "12:35",
+      "ikindi": "15:02",
+      "aksam": "17:23",
+      "yatsi": "18:45"
+    },
+    {
+      "tarih": "24 Aralık 2026 Perşembe",
+      "hicri": "15 Recep 1448",
+      "imsak": "06:09",
+      "gunes": "07:37",
+      "ogle": "12:35",
+      "ikindi": "15:03",
+      "aksam": "17:24",
+      "yatsi": "18:46"
+    },
+    {
+      "tarih": "25 Aralık 2026 Cuma",
+      "hicri": "16 Recep 1448",
+      "imsak": "06:10",
+      "gunes": "07:37",
+      "ogle": "12:36",
+      "ikindi": "15:04",
+      "aksam": "17:24",
+      "yatsi": "18:46"
+    },
+    {
+      "tarih": "26 Aralık 2026 Cumartesi",
+      "hicri": "17 Recep 1448",
+      "imsak": "06:10",
+      "gunes": "07:38",
+      "ogle": "12:36",
+      "ikindi": "15:04",
+      "aksam": "17:25",
+      "yatsi": "18:47"
+    },
+    {
+      "tarih": "27 Aralık 2026 Pazar",
+      "hicri": "18 Recep 1448",
+      "imsak": "06:11",
+      "gunes": "07:38",
+      "ogle": "12:37",
+      "ikindi": "15:05",
+      "aksam": "17:25",
+      "yatsi": "18:47"
+    },
+    {
+      "tarih": "28 Aralık 2026 Pazartesi",
+      "hicri": "19 Recep 1448",
+      "imsak": "06:11",
+      "gunes": "07:38",
+      "ogle": "12:37",
+      "ikindi": "15:05",
+      "aksam": "17:26",
+      "yatsi": "18:48"
+    },
+    {
+      "tarih": "29 Aralık 2026 Salı",
+      "hicri": "20 Recep 1448",
+      "imsak": "06:11",
+      "gunes": "07:38",
+      "ogle": "12:38",
+      "ikindi": "15:06",
+      "aksam": "17:27",
+      "yatsi": "18:49"
+    },
+    {
+      "tarih": "30 Aralık 2026 Çarşamba",
+      "hicri": "21 Recep 1448",
+      "imsak": "06:12",
+      "gunes": "07:39",
+      "ogle": "12:38",
+      "ikindi": "15:07",
+      "aksam": "17:28",
+      "yatsi": "18:49"
+    },
+    {
+      "tarih": "31 Aralık 2026 Perşembe",
+      "hicri": "22 Recep 1448",
+      "imsak": "06:12",
+      "gunes": "07:39",
+      "ogle": "12:39",
+      "ikindi": "15:07",
+      "aksam": "17:28",
+      "yatsi": "18:50"
+    }
+  ]
+}
